@@ -17,7 +17,12 @@
         }
       ],
       "settings": [],
-      "collapsed": [{ "name": "loop", "isCollapsed": false }],
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": false
+        }
+      ],
       "x": -2922,
       "y": -3826
     },
@@ -45,7 +50,12 @@
           "structure": []
         }
       ],
-      "collapsed": [{ "name": "loop", "isCollapsed": false }],
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": false
+        }
+      ],
       "x": -2922,
       "y": -3706
     },
@@ -59,7 +69,12 @@
       "childId": "816EE781-6447-4CB2-AE71-07512C23A11E",
       "inputs": [],
       "settings": [],
-      "collapsed": [{ "name": "loop", "isCollapsed": true }],
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": true
+        }
+      ],
       "x": -2802,
       "y": -3026,
       "variableGuid": "E3084D5D-4DE7-428E-BDE0-440DCD055EDD",
@@ -82,7 +97,12 @@
       "childId": "749BB890-520A-4E81-8C75-5738241F7586",
       "inputs": [],
       "settings": [],
-      "collapsed": [{ "name": "loop", "isCollapsed": true }],
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": true
+        }
+      ],
       "x": -2802,
       "y": -2906,
       "variableGuid": "247B71DE-30E7-4526-AC3D-BE5E17AA9194",
@@ -105,7 +125,12 @@
       "childId": null,
       "inputs": [],
       "settings": [],
-      "collapsed": [{ "name": "loop", "isCollapsed": true }],
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": true
+        }
+      ],
       "x": -2802,
       "y": -2786,
       "variableGuid": "9679AB7C-F7EB-4A7F-A217-B2F9F14CE7E5",
@@ -134,7 +159,12 @@
           "type": "select",
           "structure": []
         },
-        { "id": "cache", "value": "0", "type": "select", "structure": [] },
+        {
+          "id": "cache",
+          "value": "0",
+          "type": "select",
+          "structure": []
+        },
         {
           "id": "automations_censor_data",
           "value": false,
@@ -142,7 +172,12 @@
           "structure": []
         }
       ],
-      "collapsed": [{ "name": "loop", "isCollapsed": false }],
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": false
+        }
+      ],
       "x": -2922,
       "y": -2586,
       "datasourcetype_guid": "61a87510-c7a3-11ea-95da-0fb0c241e75c",
@@ -172,7 +207,12 @@
           "type": "select",
           "structure": []
         },
-        { "id": "cache", "value": "0", "type": "select", "structure": [] },
+        {
+          "id": "cache",
+          "value": "0",
+          "type": "select",
+          "structure": []
+        },
         {
           "id": "automations_censor_data",
           "value": false,
@@ -180,7 +220,12 @@
           "structure": []
         }
       ],
-      "collapsed": [{ "name": "loop", "isCollapsed": false }],
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": false
+        }
+      ],
       "x": -2922,
       "y": -2466,
       "datasourcetype_guid": "61a87510-c7a3-11ea-95da-0fb0c241e75c",
@@ -211,7 +256,12 @@
           "structure": []
         }
       ],
-      "collapsed": [{ "name": "loop", "isCollapsed": false }],
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": false
+        }
+      ],
       "x": -2922,
       "y": -1866
     },
@@ -247,12 +297,21 @@
       ],
       "settings": [],
       "collapsed": [
-        { "name": "yes", "isCollapsed": false },
-        { "name": "no", "isCollapsed": false },
-        { "name": "both", "isCollapsed": false }
+        {
+          "name": "yes",
+          "isCollapsed": false
+        },
+        {
+          "name": "no",
+          "isCollapsed": false
+        },
+        {
+          "name": "both",
+          "isCollapsed": false
+        }
       ],
       "x": -2922,
-      "y": -1186,
+      "y": -506,
       "childTrueId": "BE7F53B8-B1FD-48DF-A8A5-D6638F74FA2C",
       "childFalseId": null
     },
@@ -272,7 +331,12 @@
           "type": "select",
           "structure": []
         },
-        { "id": "cache", "value": "0", "type": "select", "structure": [] },
+        {
+          "id": "cache",
+          "value": "0",
+          "type": "select",
+          "structure": []
+        },
         {
           "id": "automations_censor_data",
           "value": false,
@@ -280,9 +344,14 @@
           "structure": []
         }
       ],
-      "collapsed": [{ "name": "loop", "isCollapsed": false }],
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": false
+        }
+      ],
       "x": -2922,
-      "y": 874,
+      "y": 1934,
       "datasourcetype_guid": "61a87510-c7a3-11ea-95da-0fb0c241e75c",
       "endpoint_guid": "0e6d4530-3291-11ed-a2e9-3bc221fc190c",
       "endpoint_role": "get"
@@ -311,9 +380,14 @@
           "structure": []
         }
       ],
-      "collapsed": [{ "name": "loop", "isCollapsed": false }],
-      "x": -2922,
-      "y": 2594
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": false
+        }
+      ],
+      "x": -2930,
+      "y": 3657
     },
     {
       "id": "F718EF32-99B6-49C3-A5A5-6996F86B0B87",
@@ -375,9 +449,14 @@
           "structure": []
         }
       ],
-      "collapsed": [{ "name": "loop", "isCollapsed": false }],
-      "x": -2922,
-      "y": 6254,
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": false
+        }
+      ],
+      "x": -3292,
+      "y": 7334,
       "loopBlockId": null,
       "datasourcetype_guid": "61a87510-c7a3-11ea-95da-0fb0c241e75c",
       "endpoint_guid": "590a1a20-6d2e-11eb-9714-df1bbaac055d",
@@ -393,9 +472,14 @@
       "childId": "34B88617-9583-4EA4-948E-D580D65F3C49",
       "inputs": [],
       "settings": [],
-      "collapsed": [{ "name": "loop", "isCollapsed": false }],
-      "x": -2922,
-      "y": 6414,
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": false
+        }
+      ],
+      "x": -3292,
+      "y": 7494,
       "variableGuid": "DE390532-B1F9-4098-BBE0-B7E6101BD502",
       "operations": [
         {
@@ -430,9 +514,14 @@
           "structure": []
         }
       ],
-      "collapsed": [{ "name": "loop", "isCollapsed": true }],
-      "x": -2802,
-      "y": 6754
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": true
+        }
+      ],
+      "x": -3172,
+      "y": 7834
     },
     {
       "id": "34B88617-9583-4EA4-948E-D580D65F3C49",
@@ -473,9 +562,14 @@
           "structure": []
         }
       ],
-      "collapsed": [{ "name": "loop", "isCollapsed": false }],
-      "x": -2922,
-      "y": 6534,
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": false
+        }
+      ],
+      "x": -3292,
+      "y": 7614,
       "loopBlockId": "7E7CFBF2-F088-4F93-9BA8-DE932E22956E"
     },
     {
@@ -488,9 +582,14 @@
       "childId": "EB27466E-BFCB-4FFC-8B1A-3AA517AB3F4F",
       "inputs": [],
       "settings": [],
-      "collapsed": [{ "name": "loop", "isCollapsed": true }],
-      "x": -2802,
-      "y": 6634,
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": true
+        }
+      ],
+      "x": -3172,
+      "y": 7714,
       "variableGuid": "DE390532-B1F9-4098-BBE0-B7E6101BD502",
       "operations": [
         {
@@ -528,12 +627,21 @@
       ],
       "settings": [],
       "collapsed": [
-        { "name": "yes", "isCollapsed": true },
-        { "name": "no", "isCollapsed": true },
-        { "name": "both", "isCollapsed": true }
+        {
+          "name": "yes",
+          "isCollapsed": true
+        },
+        {
+          "name": "no",
+          "isCollapsed": true
+        },
+        {
+          "name": "both",
+          "isCollapsed": true
+        }
       ],
-      "x": -2802,
-      "y": 6874,
+      "x": -3172,
+      "y": 7954,
       "childTrueId": "A29FDF70-7705-4848-B467-90DD6CD8F293",
       "childFalseId": "EABD8111-E99F-4C5B-A67D-3D7F0ACE778E"
     },
@@ -547,7 +655,12 @@
       "childId": "6A1F7D55-1177-4CED-96ED-C5EAB1EF473C",
       "inputs": [],
       "settings": [],
-      "collapsed": [{ "name": "loop", "isCollapsed": true }],
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": true
+        }
+      ],
       "x": -2561,
       "y": 7132,
       "variableGuid": "407730A6-EC96-4337-BE80-CF4C0D552F08",
@@ -570,7 +683,12 @@
       "childId": "4B13B3CA-4EE2-4F26-A4E4-ECBE8AD13378",
       "inputs": [],
       "settings": [],
-      "collapsed": [{ "name": "loop", "isCollapsed": true }],
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": true
+        }
+      ],
       "x": -2561,
       "y": 7252,
       "variableGuid": "1BF2068B-106E-4D58-BC51-884F1810F03C",
@@ -601,7 +719,12 @@
         }
       ],
       "settings": [],
-      "collapsed": [{ "name": "loop", "isCollapsed": true }],
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": true
+        }
+      ],
       "x": -2561,
       "y": 7372
     },
@@ -614,10 +737,20 @@
       "comment": "Standard error handler which provides standardized error output.",
       "childId": "D46F6E49-3856-430B-A685-0A07984CDAEB",
       "inputs": [
-        { "id": "name", "value": "error", "type": "string", "structure": [] }
+        {
+          "id": "name",
+          "value": "error",
+          "type": "string",
+          "structure": []
+        }
       ],
       "settings": [],
-      "collapsed": [{ "name": "loop", "isCollapsed": true }],
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": true
+        }
+      ],
       "x": -1219,
       "y": -2915
     },
@@ -648,9 +781,18 @@
       ],
       "settings": [],
       "collapsed": [
-        { "name": "yes", "isCollapsed": true },
-        { "name": "no", "isCollapsed": true },
-        { "name": "both", "isCollapsed": true }
+        {
+          "name": "yes",
+          "isCollapsed": true
+        },
+        {
+          "name": "no",
+          "isCollapsed": true
+        },
+        {
+          "name": "both",
+          "isCollapsed": true
+        }
       ],
       "x": -2561,
       "y": 7532,
@@ -699,7 +841,12 @@
           "type": "select",
           "structure": []
         },
-        { "id": "cache", "value": "0", "type": "select", "structure": [] },
+        {
+          "id": "cache",
+          "value": "0",
+          "type": "select",
+          "structure": []
+        },
         {
           "id": "automations_censor_data",
           "value": false,
@@ -707,7 +854,12 @@
           "structure": []
         }
       ],
-      "collapsed": [{ "name": "loop", "isCollapsed": true }],
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": true
+        }
+      ],
       "x": -2441,
       "y": 7612,
       "loopBlockId": null,
@@ -742,9 +894,18 @@
       ],
       "settings": [],
       "collapsed": [
-        { "name": "yes", "isCollapsed": true },
-        { "name": "no", "isCollapsed": true },
-        { "name": "both", "isCollapsed": true }
+        {
+          "name": "yes",
+          "isCollapsed": true
+        },
+        {
+          "name": "no",
+          "isCollapsed": true
+        },
+        {
+          "name": "both",
+          "isCollapsed": true
+        }
       ],
       "x": -2441,
       "y": 7732,
@@ -778,9 +939,18 @@
       ],
       "settings": [],
       "collapsed": [
-        { "name": "yes", "isCollapsed": true },
-        { "name": "no", "isCollapsed": true },
-        { "name": "both", "isCollapsed": true }
+        {
+          "name": "yes",
+          "isCollapsed": true
+        },
+        {
+          "name": "no",
+          "isCollapsed": true
+        },
+        {
+          "name": "both",
+          "isCollapsed": true
+        }
       ],
       "x": -2321,
       "y": 7812,
@@ -797,7 +967,12 @@
       "childId": "B6226FFD-EC59-4DB5-91A6-A706091A4FD6",
       "inputs": [],
       "settings": [],
-      "collapsed": [{ "name": "loop", "isCollapsed": true }],
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": true
+        }
+      ],
       "x": -2201,
       "y": 7892,
       "variableGuid": "E413E2FB-E4E7-4AFF-8894-6D27792FA8D8",
@@ -865,7 +1040,12 @@
           "structure": []
         }
       ],
-      "collapsed": [{ "name": "loop", "isCollapsed": true }],
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": true
+        }
+      ],
       "x": -2201,
       "y": 8012,
       "datasourcetype_guid": "61a87510-c7a3-11ea-95da-0fb0c241e75c",
@@ -896,7 +1076,12 @@
           "structure": []
         }
       ],
-      "collapsed": [{ "name": "loop", "isCollapsed": true }],
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": true
+        }
+      ],
       "x": -2201,
       "y": 8132
     },
@@ -924,7 +1109,12 @@
           "structure": []
         }
       ],
-      "collapsed": [{ "name": "loop", "isCollapsed": true }],
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": true
+        }
+      ],
       "x": -2201,
       "y": 8292
     },
@@ -977,7 +1167,12 @@
           "structure": []
         }
       ],
-      "collapsed": [{ "name": "loop", "isCollapsed": true }],
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": true
+        }
+      ],
       "x": -2321,
       "y": 8532,
       "datasourcetype_guid": "61a87510-c7a3-11ea-95da-0fb0c241e75c",
@@ -1008,7 +1203,12 @@
           "structure": []
         }
       ],
-      "collapsed": [{ "name": "loop", "isCollapsed": true }],
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": true
+        }
+      ],
       "x": -2321,
       "y": 8652
     },
@@ -1036,7 +1236,12 @@
           "structure": []
         }
       ],
-      "collapsed": [{ "name": "loop", "isCollapsed": true }],
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": true
+        }
+      ],
       "x": -2441,
       "y": 8892
     },
@@ -1050,9 +1255,14 @@
       "childId": "8B32EC24-AC36-47A1-B60B-2FC217B835E3",
       "inputs": [],
       "settings": [],
-      "collapsed": [{ "name": "loop", "isCollapsed": false }],
-      "x": -2922,
-      "y": 7234,
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": false
+        }
+      ],
+      "x": -3292,
+      "y": 8314,
       "variableGuid": "B6C34135-EF0E-42EF-AC0D-621D8A8A165D",
       "operations": [
         {
@@ -1078,10 +1288,20 @@
           "type": "string",
           "structure": []
         },
-        { "id": "action", "value": "stop", "type": "select", "structure": [] }
+        {
+          "id": "action",
+          "value": "stop",
+          "type": "select",
+          "structure": []
+        }
       ],
       "settings": [],
-      "collapsed": [{ "name": "loop", "isCollapsed": true }],
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": true
+        }
+      ],
       "x": -1219,
       "y": -2555
     },
@@ -1145,9 +1365,14 @@
           "structure": []
         }
       ],
-      "collapsed": [{ "name": "loop", "isCollapsed": false }],
-      "x": -2922,
-      "y": 7074,
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": false
+        }
+      ],
+      "x": -3292,
+      "y": 8154,
       "loopBlockId": null,
       "datasourcetype_guid": "61a87510-c7a3-11ea-95da-0fb0c241e75c",
       "endpoint_guid": "590a1a20-6d2e-11eb-9714-df1bbaac055d",
@@ -1192,9 +1417,14 @@
           "structure": []
         }
       ],
-      "collapsed": [{ "name": "loop", "isCollapsed": false }],
-      "x": -2922,
-      "y": 7354,
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": false
+        }
+      ],
+      "x": -3292,
+      "y": 8434,
       "loopBlockId": "FCBE0570-D739-43D6-B0AD-B16A2DA6F28A"
     },
     {
@@ -1207,9 +1437,14 @@
       "childId": "820347D1-83F1-4F4E-A9A3-AACE4DF3685E",
       "inputs": [],
       "settings": [],
-      "collapsed": [{ "name": "loop", "isCollapsed": true }],
-      "x": -2802,
-      "y": 7454,
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": true
+        }
+      ],
+      "x": -3172,
+      "y": 8534,
       "variableGuid": "B6C34135-EF0E-42EF-AC0D-621D8A8A165D",
       "operations": [
         {
@@ -1244,9 +1479,14 @@
           "structure": []
         }
       ],
-      "collapsed": [{ "name": "loop", "isCollapsed": true }],
-      "x": -2802,
-      "y": 7574
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": true
+        }
+      ],
+      "x": -3172,
+      "y": 8654
     },
     {
       "id": "B35B33BE-B45B-4749-813C-64BA4AA4FA1D",
@@ -1275,12 +1515,21 @@
       ],
       "settings": [],
       "collapsed": [
-        { "name": "yes", "isCollapsed": false },
-        { "name": "no", "isCollapsed": false },
-        { "name": "both", "isCollapsed": false }
+        {
+          "name": "yes",
+          "isCollapsed": false
+        },
+        {
+          "name": "no",
+          "isCollapsed": false
+        },
+        {
+          "name": "both",
+          "isCollapsed": false
+        }
       ],
-      "x": -2802,
-      "y": 7694,
+      "x": -3172,
+      "y": 8774,
       "childTrueId": "F0DEE5BC-C9A2-4F91-964A-EA7C64F90457",
       "childFalseId": "2FDCB00D-3E41-4B95-A904-51DBFF7345AA"
     },
@@ -1294,9 +1543,14 @@
       "childId": "CDB7C2AB-E721-492F-9238-2A91F9B67CF2",
       "inputs": [],
       "settings": [],
-      "collapsed": [{ "name": "loop", "isCollapsed": true }],
-      "x": -2682,
-      "y": 7774,
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": true
+        }
+      ],
+      "x": -3052,
+      "y": 8854,
       "variableGuid": "407730A6-EC96-4337-BE80-CF4C0D552F08",
       "operations": [
         {
@@ -1317,9 +1571,14 @@
       "childId": "1324CB60-D99D-4A46-AB5A-734A7B31D12B",
       "inputs": [],
       "settings": [],
-      "collapsed": [{ "name": "loop", "isCollapsed": true }],
-      "x": -2682,
-      "y": 7894,
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": true
+        }
+      ],
+      "x": -3052,
+      "y": 8974,
       "variableGuid": "1BF2068B-106E-4D58-BC51-884F1810F03C",
       "operations": [
         {
@@ -1348,9 +1607,14 @@
         }
       ],
       "settings": [],
-      "collapsed": [{ "name": "loop", "isCollapsed": true }],
-      "x": -2682,
-      "y": 8014
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": true
+        }
+      ],
+      "x": -3052,
+      "y": 9094
     },
     {
       "id": "2FDCB00D-3E41-4B95-A904-51DBFF7345AA",
@@ -1379,12 +1643,21 @@
       ],
       "settings": [],
       "collapsed": [
-        { "name": "yes", "isCollapsed": false },
-        { "name": "no", "isCollapsed": false },
-        { "name": "both", "isCollapsed": false }
+        {
+          "name": "yes",
+          "isCollapsed": false
+        },
+        {
+          "name": "no",
+          "isCollapsed": false
+        },
+        {
+          "name": "both",
+          "isCollapsed": false
+        }
       ],
-      "x": -2682,
-      "y": 8174,
+      "x": -3052,
+      "y": 9254,
       "childTrueId": "064FC5B0-AF19-4C57-B22A-E171D71F3643",
       "childFalseId": "F37D6ACE-DF7C-4EB9-A990-E7DBCD31ABDF"
     },
@@ -1430,7 +1703,12 @@
           "type": "select",
           "structure": []
         },
-        { "id": "cache", "value": "0", "type": "select", "structure": [] },
+        {
+          "id": "cache",
+          "value": "0",
+          "type": "select",
+          "structure": []
+        },
         {
           "id": "automations_censor_data",
           "value": false,
@@ -1438,9 +1716,14 @@
           "structure": []
         }
       ],
-      "collapsed": [{ "name": "loop", "isCollapsed": false }],
-      "x": -2562,
-      "y": 8254,
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": false
+        }
+      ],
+      "x": -2932,
+      "y": 9334,
       "loopBlockId": null,
       "datasourcetype_guid": "61a87510-c7a3-11ea-95da-0fb0c241e75c",
       "endpoint_guid": "ffe6d930-6d33-11eb-ad8a-334e25c5e295",
@@ -1473,12 +1756,21 @@
       ],
       "settings": [],
       "collapsed": [
-        { "name": "yes", "isCollapsed": false },
-        { "name": "no", "isCollapsed": false },
-        { "name": "both", "isCollapsed": false }
+        {
+          "name": "yes",
+          "isCollapsed": false
+        },
+        {
+          "name": "no",
+          "isCollapsed": false
+        },
+        {
+          "name": "both",
+          "isCollapsed": false
+        }
       ],
-      "x": -2562,
-      "y": 8414,
+      "x": -2932,
+      "y": 9494,
       "childTrueId": "D0EEE98C-7DA0-47F5-B8C6-31B0507505FD",
       "childFalseId": "9CC93349-E133-4BCC-860C-7AAE4991A788"
     },
@@ -1514,12 +1806,21 @@
       ],
       "settings": [],
       "collapsed": [
-        { "name": "yes", "isCollapsed": false },
-        { "name": "no", "isCollapsed": false },
-        { "name": "both", "isCollapsed": false }
+        {
+          "name": "yes",
+          "isCollapsed": false
+        },
+        {
+          "name": "no",
+          "isCollapsed": false
+        },
+        {
+          "name": "both",
+          "isCollapsed": false
+        }
       ],
-      "x": -2442,
-      "y": 8494,
+      "x": -2812,
+      "y": 9574,
       "childTrueId": "BE0D6DE8-CA32-466A-917B-40EA75EB91C9",
       "childFalseId": "253E7602-5CB9-473C-A66A-ABB7711934A6"
     },
@@ -1533,9 +1834,14 @@
       "childId": "759EE2C8-9EAF-4D15-9A14-D059BC43154C",
       "inputs": [],
       "settings": [],
-      "collapsed": [{ "name": "loop", "isCollapsed": true }],
-      "x": -2322,
-      "y": 8574,
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": true
+        }
+      ],
+      "x": -2692,
+      "y": 9654,
       "variableGuid": "E413E2FB-E4E7-4AFF-8894-6D27792FA8D8",
       "operations": [
         {
@@ -1607,9 +1913,14 @@
           "structure": []
         }
       ],
-      "collapsed": [{ "name": "loop", "isCollapsed": true }],
-      "x": -2322,
-      "y": 8694,
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": true
+        }
+      ],
+      "x": -2692,
+      "y": 9774,
       "datasourcetype_guid": "61a87510-c7a3-11ea-95da-0fb0c241e75c",
       "endpoint_guid": "8c54ade0-6d42-11eb-b3a8-75befcc89b0a",
       "endpoint_role": "update"
@@ -1638,9 +1949,14 @@
           "structure": []
         }
       ],
-      "collapsed": [{ "name": "loop", "isCollapsed": true }],
-      "x": -2322,
-      "y": 8814
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": true
+        }
+      ],
+      "x": -2692,
+      "y": 9894
     },
     {
       "id": "253E7602-5CB9-473C-A66A-ABB7711934A6",
@@ -1666,9 +1982,14 @@
           "structure": []
         }
       ],
-      "collapsed": [{ "name": "loop", "isCollapsed": true }],
-      "x": -2322,
-      "y": 8974
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": true
+        }
+      ],
+      "x": -2692,
+      "y": 10054
     },
     {
       "id": "9CC93349-E133-4BCC-860C-7AAE4991A788",
@@ -1719,9 +2040,14 @@
           "structure": []
         }
       ],
-      "collapsed": [{ "name": "loop", "isCollapsed": true }],
-      "x": -2442,
-      "y": 9214,
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": true
+        }
+      ],
+      "x": -2812,
+      "y": 10294,
       "datasourcetype_guid": "61a87510-c7a3-11ea-95da-0fb0c241e75c",
       "endpoint_guid": "272d9c70-6d31-11eb-870f-67624392ed86",
       "endpoint_role": "create"
@@ -1750,9 +2076,14 @@
           "structure": []
         }
       ],
-      "collapsed": [{ "name": "loop", "isCollapsed": true }],
-      "x": -2442,
-      "y": 9334
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": true
+        }
+      ],
+      "x": -2812,
+      "y": 10414
     },
     {
       "id": "F37D6ACE-DF7C-4EB9-A990-E7DBCD31ABDF",
@@ -1778,9 +2109,14 @@
           "structure": []
         }
       ],
-      "collapsed": [{ "name": "loop", "isCollapsed": true }],
-      "x": -2562,
-      "y": 9574
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": true
+        }
+      ],
+      "x": -2932,
+      "y": 10654
     },
     {
       "id": "7C0C15A5-F334-4AD6-A9D4-C0AC674CC34B",
@@ -1809,12 +2145,21 @@
       ],
       "settings": [],
       "collapsed": [
-        { "name": "yes", "isCollapsed": false },
-        { "name": "no", "isCollapsed": false },
-        { "name": "both", "isCollapsed": false }
+        {
+          "name": "yes",
+          "isCollapsed": false
+        },
+        {
+          "name": "no",
+          "isCollapsed": false
+        },
+        {
+          "name": "both",
+          "isCollapsed": false
+        }
       ],
-      "x": -2922,
-      "y": 9894,
+      "x": -3292,
+      "y": 10974,
       "childTrueId": "A835D799-19FC-450D-BF01-88DB67C89291",
       "childFalseId": null
     },
@@ -1860,9 +2205,14 @@
           "structure": []
         }
       ],
-      "collapsed": [{ "name": "loop", "isCollapsed": true }],
-      "x": -2802,
-      "y": 9974,
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": true
+        }
+      ],
+      "x": -3172,
+      "y": 11054,
       "datasourcetype_guid": "61a87510-c7a3-11ea-95da-0fb0c241e75c",
       "endpoint_guid": "f0c14620-6d24-11eb-aa67-c519e2671d3d",
       "endpoint_role": "create"
@@ -1877,9 +2227,14 @@
       "childId": "E43BB4EB-9F53-4ACA-9649-051763575EE8",
       "inputs": [],
       "settings": [],
-      "collapsed": [{ "name": "loop", "isCollapsed": true }],
-      "x": -2802,
-      "y": 10094,
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": true
+        }
+      ],
+      "x": -3172,
+      "y": 11174,
       "variableGuid": "DE390532-B1F9-4098-BBE0-B7E6101BD502",
       "operations": [
         {
@@ -1914,9 +2269,14 @@
           "structure": []
         }
       ],
-      "collapsed": [{ "name": "loop", "isCollapsed": true }],
-      "x": -2802,
-      "y": 10214
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": true
+        }
+      ],
+      "x": -3172,
+      "y": 11294
     },
     {
       "id": "230E3338-D040-459F-A88C-47CD38B6BD39",
@@ -1945,12 +2305,21 @@
       ],
       "settings": [],
       "collapsed": [
-        { "name": "yes", "isCollapsed": false },
-        { "name": "no", "isCollapsed": false },
-        { "name": "both", "isCollapsed": false }
+        {
+          "name": "yes",
+          "isCollapsed": false
+        },
+        {
+          "name": "no",
+          "isCollapsed": false
+        },
+        {
+          "name": "both",
+          "isCollapsed": false
+        }
       ],
-      "x": -2922,
-      "y": 10414,
+      "x": -3292,
+      "y": 11494,
       "childTrueId": "ED0FFFF7-7BA3-4BC5-B2CC-37F2AE4C0408",
       "childFalseId": null
     },
@@ -1996,9 +2365,14 @@
           "structure": []
         }
       ],
-      "collapsed": [{ "name": "loop", "isCollapsed": true }],
-      "x": -2802,
-      "y": 10494,
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": true
+        }
+      ],
+      "x": -3172,
+      "y": 11574,
       "datasourcetype_guid": "61a87510-c7a3-11ea-95da-0fb0c241e75c",
       "endpoint_guid": "f0c14620-6d24-11eb-aa67-c519e2671d3d",
       "endpoint_role": "create"
@@ -2013,9 +2387,14 @@
       "childId": "8EA716DA-A818-45D1-8D97-92171239EAE3",
       "inputs": [],
       "settings": [],
-      "collapsed": [{ "name": "loop", "isCollapsed": true }],
-      "x": -2802,
-      "y": 10614,
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": true
+        }
+      ],
+      "x": -3172,
+      "y": 11694,
       "variableGuid": "B6C34135-EF0E-42EF-AC0D-621D8A8A165D",
       "operations": [
         {
@@ -2050,9 +2429,14 @@
           "structure": []
         }
       ],
-      "collapsed": [{ "name": "loop", "isCollapsed": true }],
-      "x": -2802,
-      "y": 10734
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": true
+        }
+      ],
+      "x": -3172,
+      "y": 11814
     },
     {
       "id": "4BE16981-95D8-4418-B598-B26CA6843820",
@@ -2064,9 +2448,14 @@
       "childId": "5006AC77-27D1-4EA3-AF11-DA559F907DB8",
       "inputs": [],
       "settings": [],
-      "collapsed": [{ "name": "loop", "isCollapsed": true }],
-      "x": -2682,
-      "y": 22494,
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": true
+        }
+      ],
+      "x": -3052,
+      "y": 23574,
       "variableGuid": "F6ED0768-9852-46AF-B822-2172586824B7",
       "operations": [
         {
@@ -2191,9 +2580,14 @@
           "structure": []
         }
       ],
-      "collapsed": [{ "name": "loop", "isCollapsed": false }],
-      "x": -2682,
-      "y": 22614,
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": false
+        }
+      ],
+      "x": -3052,
+      "y": 23694,
       "loopBlockId": "1B323E62-40BB-40D7-AD9A-D04DA4A5FFB6",
       "datasourcetype_guid": "61a87510-c7a3-11ea-95da-0fb0c241e75c",
       "endpoint_guid": "84ad9050-6f72-11eb-aa08-a1dda4364ef5",
@@ -2226,12 +2620,21 @@
       ],
       "settings": [],
       "collapsed": [
-        { "name": "yes", "isCollapsed": false },
-        { "name": "no", "isCollapsed": false },
-        { "name": "both", "isCollapsed": false }
+        {
+          "name": "yes",
+          "isCollapsed": false
+        },
+        {
+          "name": "no",
+          "isCollapsed": false
+        },
+        {
+          "name": "both",
+          "isCollapsed": false
+        }
       ],
-      "x": -2562,
-      "y": 22714,
+      "x": -2932,
+      "y": 23794,
       "childTrueId": "1C69733A-CADE-4901-9BC2-4CDA59A50DA2",
       "childFalseId": null
     },
@@ -2265,9 +2668,14 @@
           "structure": []
         }
       ],
-      "collapsed": [{ "name": "loop", "isCollapsed": true }],
-      "x": -2442,
-      "y": 22794,
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": true
+        }
+      ],
+      "x": -2812,
+      "y": 23874,
       "datasourcetype_guid": "61a87510-c7a3-11ea-95da-0fb0c241e75c",
       "endpoint_guid": "fcc108b0-67b2-11eb-806a-3957ec36f31b",
       "endpoint_role": "delete"
@@ -2296,9 +2704,14 @@
           "structure": []
         }
       ],
-      "collapsed": [{ "name": "loop", "isCollapsed": true }],
-      "x": -2442,
-      "y": 22914
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": true
+        }
+      ],
+      "x": -2812,
+      "y": 23994
     },
     {
       "id": "D5570044-9796-4DC7-81B6-C6D2F937FB1F",
@@ -2310,9 +2723,14 @@
       "childId": null,
       "inputs": [],
       "settings": [],
-      "collapsed": [{ "name": "loop", "isCollapsed": true }],
-      "x": -2562,
-      "y": 23114,
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": true
+        }
+      ],
+      "x": -2932,
+      "y": 24194,
       "variableGuid": "F6ED0768-9852-46AF-B822-2172586824B7",
       "operations": [
         {
@@ -2333,9 +2751,14 @@
       "childId": "A8F7B895-B7BB-4F7A-9189-B757D5A85B52",
       "inputs": [],
       "settings": [],
-      "collapsed": [{ "name": "loop", "isCollapsed": true }],
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": true
+        }
+      ],
       "x": -2802,
-      "y": -1106,
+      "y": -426,
       "variableGuid": "407730A6-EC96-4337-BE80-CF4C0D552F08",
       "operations": [
         {
@@ -2356,9 +2779,14 @@
       "childId": "1D1FB21E-ADAA-4284-8526-5C849D304B59",
       "inputs": [],
       "settings": [],
-      "collapsed": [{ "name": "loop", "isCollapsed": true }],
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": true
+        }
+      ],
       "x": -2802,
-      "y": -986,
+      "y": -306,
       "variableGuid": "1BF2068B-106E-4D58-BC51-884F1810F03C",
       "operations": [
         {
@@ -2387,9 +2815,14 @@
         }
       ],
       "settings": [],
-      "collapsed": [{ "name": "loop", "isCollapsed": true }],
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": true
+        }
+      ],
       "x": -2802,
-      "y": -866
+      "y": -186
     },
     {
       "id": "D46F6E49-3856-430B-A685-0A07984CDAEB",
@@ -2415,7 +2848,12 @@
           "structure": []
         }
       ],
-      "collapsed": [{ "name": "loop", "isCollapsed": true }],
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": true
+        }
+      ],
       "x": -1219,
       "y": -2795
     },
@@ -2443,7 +2881,12 @@
           "structure": []
         }
       ],
-      "collapsed": [{ "name": "loop", "isCollapsed": true }],
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": true
+        }
+      ],
       "x": -1219,
       "y": -2675
     },
@@ -2463,7 +2906,12 @@
           "type": "select",
           "structure": []
         },
-        { "id": "cache", "value": "0", "type": "select", "structure": [] },
+        {
+          "id": "cache",
+          "value": "0",
+          "type": "select",
+          "structure": []
+        },
         {
           "id": "automations_censor_data",
           "value": false,
@@ -2471,7 +2919,12 @@
           "structure": []
         }
       ],
-      "collapsed": [{ "name": "loop", "isCollapsed": false }],
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": false
+        }
+      ],
       "x": -2922,
       "y": -2346,
       "datasourcetype_guid": "61a87510-c7a3-11ea-95da-0fb0c241e75c",
@@ -2488,7 +2941,12 @@
       "childId": "82CEC2F2-0C2A-438F-8D85-41BF9C90E37B",
       "inputs": [],
       "settings": [],
-      "collapsed": [{ "name": "loop", "isCollapsed": false }],
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": false
+        }
+      ],
       "x": -2922,
       "y": -2226,
       "variableGuid": "3723D829-3B14-4B68-AAFE-63966A7025E6",
@@ -2511,7 +2969,12 @@
       "childId": "2E61A575-F621-4713-B446-C1BAC52D8834",
       "inputs": [],
       "settings": [],
-      "collapsed": [{ "name": "loop", "isCollapsed": true }],
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": true
+        }
+      ],
       "x": -2802,
       "y": -3386,
       "variableGuid": "64E41053-153C-41E1-8E96-441CE6CCC379",
@@ -2534,7 +2997,12 @@
       "childId": "D7D4A126-BDC4-41D8-AB46-9D581AAE2FED",
       "inputs": [],
       "settings": [],
-      "collapsed": [{ "name": "loop", "isCollapsed": false }],
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": false
+        }
+      ],
       "x": -2922,
       "y": -2106,
       "variableGuid": "69E3DE89-62A4-4A45-A797-81D480D8BBC9",
@@ -2562,8 +3030,18 @@
           "type": "string",
           "structure": []
         },
-        { "id": "method", "value": "GET", "type": "select", "structure": [] },
-        { "id": "timeout", "value": "", "type": "string", "structure": [] },
+        {
+          "id": "method",
+          "value": "GET",
+          "type": "select",
+          "structure": []
+        },
+        {
+          "id": "timeout",
+          "value": "",
+          "type": "string",
+          "structure": []
+        },
         {
           "id": "params",
           "value": null,
@@ -2578,7 +3056,12 @@
           "mode": "keyValue",
           "structure": []
         },
-        { "id": "encoding", "value": "", "type": "string", "structure": [] }
+        {
+          "id": "encoding",
+          "value": "",
+          "type": "string",
+          "structure": []
+        }
       ],
       "settings": [
         {
@@ -2606,7 +3089,12 @@
           "structure": []
         }
       ],
-      "collapsed": [{ "name": "loop", "isCollapsed": false }],
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": false
+        }
+      ],
       "x": -2922,
       "y": -1986
     },
@@ -2642,14 +3130,23 @@
       ],
       "settings": [],
       "collapsed": [
-        { "name": "both", "isCollapsed": false },
-        { "name": "yes", "isCollapsed": false },
-        { "name": "no", "isCollapsed": false }
+        {
+          "name": "both",
+          "isCollapsed": false
+        },
+        {
+          "name": "yes",
+          "isCollapsed": false
+        },
+        {
+          "name": "no",
+          "isCollapsed": false
+        }
       ],
       "x": -2922,
       "y": -1746,
       "childTrueId": null,
-      "childFalseId": "8A147572-A4B4-436E-AEEA-D3B0D9E2CE1B"
+      "childFalseId": "8F006B7D-F5B6-4BAA-8BFB-76D2B794E8AF"
     },
     {
       "id": "8C8FFCA6-849B-49E7-9852-7B0C074D6F65",
@@ -2707,9 +3204,14 @@
           "structure": []
         }
       ],
-      "collapsed": [{ "name": "loop", "isCollapsed": false }],
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": false
+        }
+      ],
       "x": -2922,
-      "y": 754,
+      "y": 1814,
       "datasourcetype_guid": "61a87510-c7a3-11ea-95da-0fb0c241e75c",
       "endpoint_guid": "72d48530-bbb0-11f0-875a-b322bf237aeb",
       "endpoint_role": "create"
@@ -2746,12 +3248,21 @@
       ],
       "settings": [],
       "collapsed": [
-        { "name": "both", "isCollapsed": false },
-        { "name": "yes", "isCollapsed": false },
-        { "name": "no", "isCollapsed": false }
+        {
+          "name": "both",
+          "isCollapsed": false
+        },
+        {
+          "name": "yes",
+          "isCollapsed": false
+        },
+        {
+          "name": "no",
+          "isCollapsed": false
+        }
       ],
       "x": -2922,
-      "y": 1114,
+      "y": 2174,
       "childTrueId": "D115A0F9-A1B3-4483-8169-145D1F47A9B1",
       "childFalseId": null
     },
@@ -2765,9 +3276,14 @@
       "childId": "6064DA9A-04D6-49DD-B223-C3752D3769F4",
       "inputs": [],
       "settings": [],
-      "collapsed": [{ "name": "loop", "isCollapsed": true }],
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": true
+        }
+      ],
       "x": -2802,
-      "y": 1194,
+      "y": 2254,
       "variableGuid": "407730A6-EC96-4337-BE80-CF4C0D552F08",
       "operations": [
         {
@@ -2788,9 +3304,14 @@
       "childId": "F81EA66B-BC74-4856-AE46-4B9C1D64A6AE",
       "inputs": [],
       "settings": [],
-      "collapsed": [{ "name": "loop", "isCollapsed": true }],
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": true
+        }
+      ],
       "x": -2802,
-      "y": 1314,
+      "y": 2374,
       "variableGuid": "1BF2068B-106E-4D58-BC51-884F1810F03C",
       "operations": [
         {
@@ -2819,77 +3340,14 @@
         }
       ],
       "settings": [],
-      "collapsed": [{ "name": "loop", "isCollapsed": true }],
-      "x": -2802,
-      "y": 1434
-    },
-    {
-      "id": "8A147572-A4B4-436E-AEEA-D3B0D9E2CE1B",
-      "type": "VariableBlock",
-      "disabled": false,
-      "name": "errorTitle",
-      "displayName": "Variable - errorTitle",
-      "comment": "Set error title for standard error output.",
-      "childId": "76BA5BAA-674D-40E9-8AF5-7A8BC1163723",
-      "inputs": [],
-      "settings": [],
-      "collapsed": [{ "name": "loop", "isCollapsed": true }],
-      "x": -2802,
-      "y": -1586,
-      "variableGuid": "407730A6-EC96-4337-BE80-CF4C0D552F08",
-      "operations": [
+      "collapsed": [
         {
-          "id": "set_value",
-          "key": "1BC10F4C-68C2-42E9-9000-25865B076073",
-          "name": "Set value of { variable }",
-          "value": "Cancelled - please view the run output for more information."
-        }
-      ]
-    },
-    {
-      "id": "76BA5BAA-674D-40E9-8AF5-7A8BC1163723",
-      "type": "VariableBlock",
-      "disabled": false,
-      "name": "errorDetail",
-      "displayName": "Variable - errorDetail",
-      "comment": "Variable to store detailed error message.",
-      "childId": "D5160C26-BED7-49E2-8A96-463AE880E7AA",
-      "inputs": [],
-      "settings": [],
-      "collapsed": [{ "name": "loop", "isCollapsed": true }],
-      "x": -2802,
-      "y": -1466,
-      "variableGuid": "1BF2068B-106E-4D58-BC51-884F1810F03C",
-      "operations": [
-        {
-          "id": "set_value",
-          "key": "1BC10F4C-68C2-42E9-9000-25865B076073",
-          "name": "Set value of { variable }",
-          "value": "Exiting, this deployer template is version \"{$.currentTemplateVersionNum}\", which is less than the required version \"{$.callURL.installers[?(@.template=='qcmad')].version}\" \n{linebreak}\n{linebreak}\nThe manifest message is: {$.callURL.installers[?(@.template=='qcmad')].message}"
-        }
-      ]
-    },
-    {
-      "id": "D5160C26-BED7-49E2-8A96-463AE880E7AA",
-      "type": "GotoBlock",
-      "disabled": false,
-      "name": "goToLabel",
-      "displayName": "Go To Label",
-      "comment": "Go to the label named error.",
-      "childId": null,
-      "inputs": [
-        {
-          "id": "label",
-          "value": "EF82AD29-E2CF-44C9-A7DB-24C784618756",
-          "type": "select",
-          "displayValue": "error",
-          "structure": []
+          "name": "loop",
+          "isCollapsed": true
         }
       ],
-      "settings": [],
-      "collapsed": [{ "name": "loop", "isCollapsed": true }],
       "x": -2802,
-      "y": -1346
+      "y": 2494
     },
     {
       "id": "948CF475-AF52-4C8B-AF9E-07DD7DE82F45",
@@ -2898,12 +3356,17 @@
       "name": "userRoles",
       "displayName": "Variable - userRoles",
       "comment": "Collect all roles for API key access checks.",
-      "childId": "CD1DE6F6-8F1B-43EE-9B1A-E1ED8E200416",
+      "childId": "D93CC85B-1E1E-4EE9-A2C4-D60FB7E19A92",
       "inputs": [],
       "settings": [],
-      "collapsed": [{ "name": "loop", "isCollapsed": false }],
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": false
+        }
+      ],
       "x": -2922,
-      "y": -666,
+      "y": 14,
       "variableGuid": "CD9F0C76-28B4-482E-A218-EDE5763F6807",
       "operations": [
         {
@@ -2911,12 +3374,6 @@
           "key": "1835DD18-E922-44C8-B5B7-CE7182E56679",
           "name": "Merge other list into { variable }",
           "value": "{ $.getUser.assignedRoles }"
-        },
-        {
-          "id": "merge",
-          "key": "D055F0D5-48CC-4BAB-99C0-5CA64200759F",
-          "name": "Merge other list into { variable }",
-          "value": "{ $.getUser.assignedGroups[*].assignedRoles }"
         }
       ]
     },
@@ -2940,7 +3397,11 @@
           "value": {
             "mode": "all",
             "conditions": [
-              { "input1": "type", "input2": "custom", "operator": "=" }
+              {
+                "input1": "type",
+                "input2": "custom",
+                "operator": "="
+              }
             ]
           },
           "type": "custom",
@@ -2955,9 +3416,14 @@
           "structure": []
         }
       ],
-      "collapsed": [{ "name": "loop", "isCollapsed": false }],
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": false
+        }
+      ],
       "x": -2922,
-      "y": -426,
+      "y": 654,
       "loopBlockId": "73CC9998-44BE-4947-9526-54DE0D4A39C4"
     },
     {
@@ -2983,7 +3449,12 @@
           "type": "select",
           "structure": []
         },
-        { "id": "cache", "value": "0", "type": "select", "structure": [] },
+        {
+          "id": "cache",
+          "value": "0",
+          "type": "select",
+          "structure": []
+        },
         {
           "id": "automations_censor_data",
           "value": false,
@@ -2991,9 +3462,14 @@
           "structure": []
         }
       ],
-      "collapsed": [{ "name": "loop", "isCollapsed": true }],
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": true
+        }
+      ],
       "x": -2802,
-      "y": -326,
+      "y": 754,
       "datasourcetype_guid": "61a87510-c7a3-11ea-95da-0fb0c241e75c",
       "endpoint_guid": "76c4e5d0-3702-11f0-bd5c-8b8be373d450",
       "endpoint_role": "get"
@@ -3008,9 +3484,14 @@
       "childId": "3F9D73BE-55D6-406B-B9DE-D518B12BAA4E",
       "inputs": [],
       "settings": [],
-      "collapsed": [{ "name": "loop", "isCollapsed": false }],
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": false
+        }
+      ],
       "x": -2922,
-      "y": -546,
+      "y": 534,
       "variableGuid": "4283B5F6-E6C0-492F-AA5B-21195FFF74DF",
       "operations": [
         {
@@ -3031,9 +3512,14 @@
       "childId": null,
       "inputs": [],
       "settings": [],
-      "collapsed": [{ "name": "loop", "isCollapsed": true }],
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": true
+        }
+      ],
       "x": -2802,
-      "y": -206,
+      "y": 874,
       "variableGuid": "4283B5F6-E6C0-492F-AA5B-21195FFF74DF",
       "operations": [
         {
@@ -3071,12 +3557,21 @@
       ],
       "settings": [],
       "collapsed": [
-        { "name": "both", "isCollapsed": false },
-        { "name": "yes", "isCollapsed": false },
-        { "name": "no", "isCollapsed": false }
+        {
+          "name": "both",
+          "isCollapsed": false
+        },
+        {
+          "name": "yes",
+          "isCollapsed": false
+        },
+        {
+          "name": "no",
+          "isCollapsed": false
+        }
       ],
       "x": -2922,
-      "y": 234,
+      "y": 1294,
       "childTrueId": "85BD0C04-9778-4A9E-A153-DE2A74C1CE3B",
       "childFalseId": null
     },
@@ -3090,9 +3585,14 @@
       "childId": "0C31D3FC-EAF9-4A51-B843-F7E4F7817619",
       "inputs": [],
       "settings": [],
-      "collapsed": [{ "name": "loop", "isCollapsed": true }],
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": true
+        }
+      ],
       "x": -2802,
-      "y": 314,
+      "y": 1374,
       "variableGuid": "407730A6-EC96-4337-BE80-CF4C0D552F08",
       "operations": [
         {
@@ -3113,9 +3613,14 @@
       "childId": "EBC4167E-EF3B-4828-B452-457EB4B11613",
       "inputs": [],
       "settings": [],
-      "collapsed": [{ "name": "loop", "isCollapsed": true }],
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": true
+        }
+      ],
       "x": -2802,
-      "y": 434,
+      "y": 1494,
       "variableGuid": "1BF2068B-106E-4D58-BC51-884F1810F03C",
       "operations": [
         {
@@ -3144,9 +3649,14 @@
         }
       ],
       "settings": [],
-      "collapsed": [{ "name": "loop", "isCollapsed": true }],
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": true
+        }
+      ],
       "x": -2802,
-      "y": 554
+      "y": 1614
     },
     {
       "id": "6DA24FBE-A1C7-4EF8-85CA-9C796A00B84D",
@@ -3199,9 +3709,14 @@
           "structure": []
         }
       ],
-      "collapsed": [{ "name": "loop", "isCollapsed": false }],
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": false
+        }
+      ],
       "x": -2922,
-      "y": 1634,
+      "y": 2694,
       "datasourcetype_guid": "61a87510-c7a3-11ea-95da-0fb0c241e75c",
       "endpoint_guid": "72d48530-bbb0-11f0-875a-b322bf237aeb",
       "endpoint_role": "create"
@@ -3238,12 +3753,21 @@
       ],
       "settings": [],
       "collapsed": [
-        { "name": "both", "isCollapsed": false },
-        { "name": "yes", "isCollapsed": false },
-        { "name": "no", "isCollapsed": false }
+        {
+          "name": "both",
+          "isCollapsed": false
+        },
+        {
+          "name": "yes",
+          "isCollapsed": false
+        },
+        {
+          "name": "no",
+          "isCollapsed": false
+        }
       ],
       "x": -2922,
-      "y": 1874,
+      "y": 2934,
       "childTrueId": null,
       "childFalseId": "D31546CE-90C1-43CA-9A5E-10B35DDE0BFE"
     },
@@ -3257,9 +3781,14 @@
       "childId": "D25BBAB7-8646-46AC-BC9B-D512B163DE2A",
       "inputs": [],
       "settings": [],
-      "collapsed": [{ "name": "loop", "isCollapsed": true }],
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": true
+        }
+      ],
       "x": -2802,
-      "y": 2034,
+      "y": 3094,
       "variableGuid": "407730A6-EC96-4337-BE80-CF4C0D552F08",
       "operations": [
         {
@@ -3280,9 +3809,14 @@
       "childId": "2C6FA9CF-3DE8-45CE-B24E-0979C9A78584",
       "inputs": [],
       "settings": [],
-      "collapsed": [{ "name": "loop", "isCollapsed": true }],
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": true
+        }
+      ],
       "x": -2802,
-      "y": 2154,
+      "y": 3214,
       "variableGuid": "1BF2068B-106E-4D58-BC51-884F1810F03C",
       "operations": [
         {
@@ -3311,9 +3845,14 @@
         }
       ],
       "settings": [],
-      "collapsed": [{ "name": "loop", "isCollapsed": true }],
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": true
+        }
+      ],
       "x": -2802,
-      "y": 2274
+      "y": 3334
     },
     {
       "id": "60DC4193-EAC7-4353-86C5-C9233AF169EA",
@@ -3325,9 +3864,14 @@
       "childId": "E98AA699-4CAD-416D-81EF-A97EB737FD6C",
       "inputs": [],
       "settings": [],
-      "collapsed": [{ "name": "loop", "isCollapsed": false }],
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": false
+        }
+      ],
       "x": -2922,
-      "y": 1754,
+      "y": 2814,
       "variableGuid": "51DCB139-A5E7-427D-8E9C-9382DB8A530C",
       "operations": [
         {
@@ -3353,8 +3897,18 @@
           "type": "string",
           "structure": []
         },
-        { "id": "method", "value": "GET", "type": "select", "structure": [] },
-        { "id": "timeout", "value": "", "type": "string", "structure": [] },
+        {
+          "id": "method",
+          "value": "GET",
+          "type": "select",
+          "structure": []
+        },
+        {
+          "id": "timeout",
+          "value": "",
+          "type": "string",
+          "structure": []
+        },
         {
           "id": "params",
           "value": null,
@@ -3369,7 +3923,12 @@
           "mode": "keyValue",
           "structure": []
         },
-        { "id": "encoding", "value": "", "type": "string", "structure": [] }
+        {
+          "id": "encoding",
+          "value": "",
+          "type": "string",
+          "structure": []
+        }
       ],
       "settings": [
         {
@@ -3397,9 +3956,14 @@
           "structure": []
         }
       ],
-      "collapsed": [{ "name": "loop", "isCollapsed": false }],
-      "x": -2922,
-      "y": 2714
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": false
+        }
+      ],
+      "x": -3292,
+      "y": 3794
     },
     {
       "id": "D68D0C47-8D62-4ADC-AC47-553E8E9A05ED",
@@ -3411,9 +3975,14 @@
       "childId": "66C7B574-5D06-4B85-BCEB-A11CBD175283",
       "inputs": [],
       "settings": [],
-      "collapsed": [{ "name": "loop", "isCollapsed": false }],
-      "x": -2922,
-      "y": 2834,
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": false
+        }
+      ],
+      "x": -3292,
+      "y": 3914,
       "variableGuid": "4FCFD564-CA0B-4516-AD61-A1A2EE9CF38C",
       "operations": [
         {
@@ -3451,12 +4020,21 @@
       ],
       "settings": [],
       "collapsed": [
-        { "name": "both", "isCollapsed": false },
-        { "name": "yes", "isCollapsed": false },
-        { "name": "no", "isCollapsed": false }
+        {
+          "name": "both",
+          "isCollapsed": false
+        },
+        {
+          "name": "yes",
+          "isCollapsed": false
+        },
+        {
+          "name": "no",
+          "isCollapsed": false
+        }
       ],
-      "x": -2922,
-      "y": 3074,
+      "x": -3292,
+      "y": 4154,
       "childTrueId": "FBD838AA-F63C-4948-B755-00F8F6F2CDCF",
       "childFalseId": "8968628A-54FC-4578-98FD-32FAE0B1454F"
     },
@@ -3504,9 +4082,14 @@
           "structure": []
         }
       ],
-      "collapsed": [{ "name": "loop", "isCollapsed": false }],
-      "x": -2802,
-      "y": 3154,
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": false
+        }
+      ],
+      "x": -3172,
+      "y": 4234,
       "loopBlockId": "D3F1FBD1-BEBC-4148-92AF-528D93FE1B8A"
     },
     {
@@ -3519,9 +4102,14 @@
       "childId": null,
       "inputs": [],
       "settings": [],
-      "collapsed": [{ "name": "loop", "isCollapsed": true }],
-      "x": -2562,
-      "y": 3334,
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": true
+        }
+      ],
+      "x": -2932,
+      "y": 4414,
       "variableGuid": "1ECFDB29-BC7A-4B7A-AE5F-2A2DBE77B1E0",
       "operations": [
         {
@@ -3576,9 +4164,14 @@
           "structure": []
         }
       ],
-      "collapsed": [{ "name": "loop", "isCollapsed": false }],
-      "x": -2802,
-      "y": 3654,
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": false
+        }
+      ],
+      "x": -3172,
+      "y": 4734,
       "loopBlockId": "619BAD5D-8B64-4866-9E4B-A6E8108FF386"
     },
     {
@@ -3591,9 +4184,14 @@
       "childId": null,
       "inputs": [],
       "settings": [],
-      "collapsed": [{ "name": "loop", "isCollapsed": true }],
-      "x": -2562,
-      "y": 3834,
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": true
+        }
+      ],
+      "x": -2932,
+      "y": 4914,
       "variableGuid": "1ECFDB29-BC7A-4B7A-AE5F-2A2DBE77B1E0",
       "operations": [
         {
@@ -3614,9 +4212,14 @@
       "childId": "F893CB46-17A5-4082-BB7B-5564538B5F8B",
       "inputs": [],
       "settings": [],
-      "collapsed": [{ "name": "loop", "isCollapsed": false }],
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": false
+        }
+      ],
       "x": -2922,
-      "y": 994,
+      "y": 2054,
       "variableGuid": "AD716F55-666C-4730-B830-F2D97A502F6B",
       "operations": [
         {
@@ -3637,9 +4240,14 @@
       "childId": "9BC2CF3D-A602-4940-A86B-73BA20439C0F",
       "inputs": [],
       "settings": [],
-      "collapsed": [{ "name": "loop", "isCollapsed": false }],
-      "x": -2922,
-      "y": 2954,
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": false
+        }
+      ],
+      "x": -3292,
+      "y": 4034,
       "variableGuid": "1ECFDB29-BC7A-4B7A-AE5F-2A2DBE77B1E0",
       "operations": [
         {
@@ -3660,7 +4268,12 @@
       "childId": "AABAC2BF-30E8-49FC-982B-52BD9707DAE0",
       "inputs": [],
       "settings": [],
-      "collapsed": [{ "name": "loop", "isCollapsed": true }],
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": true
+        }
+      ],
       "x": -2802,
       "y": -3506,
       "variableGuid": "8E1D15E6-7269-4E6B-A87E-AF56400A2F7A",
@@ -3736,12 +4349,21 @@
       ],
       "settings": [],
       "collapsed": [
-        { "name": "both", "isCollapsed": false },
-        { "name": "yes", "isCollapsed": false },
-        { "name": "no", "isCollapsed": false }
+        {
+          "name": "both",
+          "isCollapsed": false
+        },
+        {
+          "name": "yes",
+          "isCollapsed": false
+        },
+        {
+          "name": "no",
+          "isCollapsed": false
+        }
       ],
-      "x": -2682,
-      "y": 3254,
+      "x": -3052,
+      "y": 4334,
       "childTrueId": "8C37F961-8477-4705-A167-CACE4E579177",
       "childFalseId": null
     },
@@ -3772,12 +4394,21 @@
       ],
       "settings": [],
       "collapsed": [
-        { "name": "both", "isCollapsed": false },
-        { "name": "yes", "isCollapsed": false },
-        { "name": "no", "isCollapsed": false }
+        {
+          "name": "both",
+          "isCollapsed": false
+        },
+        {
+          "name": "yes",
+          "isCollapsed": false
+        },
+        {
+          "name": "no",
+          "isCollapsed": false
+        }
       ],
-      "x": -2682,
-      "y": 3754,
+      "x": -3052,
+      "y": 4834,
       "childTrueId": "D5F81616-F18E-481D-8254-DC54513F20A3",
       "childFalseId": null
     },
@@ -3805,9 +4436,14 @@
           "structure": []
         }
       ],
-      "collapsed": [{ "name": "loop", "isCollapsed": false }],
-      "x": -2922,
-      "y": 4154
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": false
+        }
+      ],
+      "x": -3292,
+      "y": 5234
     },
     {
       "id": "F211A56A-FBCB-4413-BA12-91144F38B722",
@@ -3833,9 +4469,14 @@
           "structure": []
         }
       ],
-      "collapsed": [{ "name": "loop", "isCollapsed": true }],
-      "x": -2682,
-      "y": 4694
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": true
+        }
+      ],
+      "x": -3052,
+      "y": 5774
     },
     {
       "id": "B67C3598-6171-40D5-87CE-E7CBA1D58E16",
@@ -3847,9 +4488,14 @@
       "childId": "432F3D61-2AEC-471B-8837-04AB4F56B9DB",
       "inputs": [],
       "settings": [],
-      "collapsed": [{ "name": "loop", "isCollapsed": false }],
-      "x": -2922,
-      "y": 4274,
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": false
+        }
+      ],
+      "x": -3292,
+      "y": 5354,
       "variableGuid": "09C608F2-CF67-4C9A-983E-F39019D443B9",
       "operations": [
         {
@@ -3884,9 +4530,14 @@
           "structure": []
         }
       ],
-      "collapsed": [{ "name": "loop", "isCollapsed": false }],
-      "x": -2922,
-      "y": 4514,
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": false
+        }
+      ],
+      "x": -3292,
+      "y": 5594,
       "loopBlockId": "7CE340D0-20D9-4B6B-80C0-9295582D1CF9"
     },
     {
@@ -3916,12 +4567,21 @@
       ],
       "settings": [],
       "collapsed": [
-        { "name": "both", "isCollapsed": false },
-        { "name": "yes", "isCollapsed": false },
-        { "name": "no", "isCollapsed": false }
+        {
+          "name": "both",
+          "isCollapsed": false
+        },
+        {
+          "name": "yes",
+          "isCollapsed": false
+        },
+        {
+          "name": "no",
+          "isCollapsed": false
+        }
       ],
-      "x": -2802,
-      "y": 4614,
+      "x": -3172,
+      "y": 5694,
       "childTrueId": "F211A56A-FBCB-4413-BA12-91144F38B722",
       "childFalseId": null
     },
@@ -3952,12 +4612,21 @@
       ],
       "settings": [],
       "collapsed": [
-        { "name": "both", "isCollapsed": false },
-        { "name": "yes", "isCollapsed": false },
-        { "name": "no", "isCollapsed": false }
+        {
+          "name": "both",
+          "isCollapsed": false
+        },
+        {
+          "name": "yes",
+          "isCollapsed": false
+        },
+        {
+          "name": "no",
+          "isCollapsed": false
+        }
       ],
-      "x": -2922,
-      "y": 5094,
+      "x": -3292,
+      "y": 6174,
       "childTrueId": "EBDE966E-F544-46BF-89EA-FB5A671494B7",
       "childFalseId": null
     },
@@ -3971,9 +4640,14 @@
       "childId": "D13F1BD0-95CE-4118-B875-7DC61E17AA1E",
       "inputs": [],
       "settings": [],
-      "collapsed": [{ "name": "loop", "isCollapsed": true }],
-      "x": -2802,
-      "y": 5174,
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": true
+        }
+      ],
+      "x": -3172,
+      "y": 6254,
       "variableGuid": "407730A6-EC96-4337-BE80-CF4C0D552F08",
       "operations": [
         {
@@ -3994,9 +4668,14 @@
       "childId": "69F43DAF-28FE-44A5-8D0F-5BF0E066A618",
       "inputs": [],
       "settings": [],
-      "collapsed": [{ "name": "loop", "isCollapsed": true }],
-      "x": -2802,
-      "y": 5294,
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": true
+        }
+      ],
+      "x": -3172,
+      "y": 6374,
       "variableGuid": "1BF2068B-106E-4D58-BC51-884F1810F03C",
       "operations": [
         {
@@ -4025,9 +4704,14 @@
         }
       ],
       "settings": [],
-      "collapsed": [{ "name": "loop", "isCollapsed": true }],
-      "x": -2802,
-      "y": 5414
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": true
+        }
+      ],
+      "x": -3172,
+      "y": 6494
     },
     {
       "id": "ECCD6D36-805D-44EF-A411-A73316586DD1",
@@ -4080,9 +4764,14 @@
           "structure": []
         }
       ],
-      "collapsed": [{ "name": "loop", "isCollapsed": false }],
-      "x": -2922,
-      "y": 5614,
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": false
+        }
+      ],
+      "x": -3292,
+      "y": 6694,
       "datasourcetype_guid": "61a87510-c7a3-11ea-95da-0fb0c241e75c",
       "endpoint_guid": "72d48530-bbb0-11f0-875a-b322bf237aeb",
       "endpoint_role": "create"
@@ -4097,9 +4786,14 @@
       "childId": null,
       "inputs": [],
       "settings": [],
-      "collapsed": [{ "name": "loop", "isCollapsed": true }],
-      "x": -2682,
-      "y": 4814,
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": true
+        }
+      ],
+      "x": -3052,
+      "y": 5894,
       "variableGuid": "CB55538C-0F1A-4871-98DD-C68EC5B00D84",
       "operations": [
         {
@@ -4120,9 +4814,14 @@
       "childId": "F364D449-B628-4325-9617-1B04B7DBFB6A",
       "inputs": [],
       "settings": [],
-      "collapsed": [{ "name": "loop", "isCollapsed": false }],
-      "x": -2922,
-      "y": 4394,
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": false
+        }
+      ],
+      "x": -3292,
+      "y": 5474,
       "variableGuid": "CB55538C-0F1A-4871-98DD-C68EC5B00D84",
       "operations": [
         {
@@ -4168,7 +4867,12 @@
           "type": "select",
           "structure": []
         },
-        { "id": "cache", "value": "0", "type": "select", "structure": [] },
+        {
+          "id": "cache",
+          "value": "0",
+          "type": "select",
+          "structure": []
+        },
         {
           "id": "automations_censor_data",
           "value": false,
@@ -4176,9 +4880,14 @@
           "structure": []
         }
       ],
-      "collapsed": [{ "name": "loop", "isCollapsed": false }],
-      "x": -2922,
-      "y": 13954,
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": false
+        }
+      ],
+      "x": -3292,
+      "y": 15034,
       "loopBlockId": "DAD45F04-D485-42E3-B7DD-D8C3106EA5FC",
       "datasourcetype_guid": "61a87510-c7a3-11ea-95da-0fb0c241e75c",
       "endpoint_guid": "8cc63340-107b-11ec-ab5d-f9b221ed2dc5",
@@ -4235,9 +4944,14 @@
           "structure": []
         }
       ],
-      "collapsed": [{ "name": "loop", "isCollapsed": true }],
-      "x": -2802,
-      "y": 14054,
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": true
+        }
+      ],
+      "x": -3172,
+      "y": 15134,
       "datasourcetype_guid": "61a87510-c7a3-11ea-95da-0fb0c241e75c",
       "endpoint_guid": "72d48530-bbb0-11f0-875a-b322bf237aeb",
       "endpoint_role": "create"
@@ -4252,9 +4966,14 @@
       "childId": "7151B1C7-58CC-49D0-AE62-51CBB945D6D4",
       "inputs": [],
       "settings": [],
-      "collapsed": [{ "name": "loop", "isCollapsed": false }],
-      "x": -2922,
-      "y": 13834,
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": false
+        }
+      ],
+      "x": -3292,
+      "y": 14914,
       "variableGuid": "2E37F6E5-BE30-44ED-B0B6-B544ECEAAB9E",
       "operations": [
         {
@@ -4289,9 +5008,14 @@
           "structure": []
         }
       ],
-      "collapsed": [{ "name": "loop", "isCollapsed": false }],
-      "x": -2922,
-      "y": 14334,
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": false
+        }
+      ],
+      "x": -3292,
+      "y": 15414,
       "loopBlockId": "0DBF0B78-A809-4DDE-B02F-EF043A628D39"
     },
     {
@@ -4326,12 +5050,21 @@
       ],
       "settings": [],
       "collapsed": [
-        { "name": "both", "isCollapsed": false },
-        { "name": "yes", "isCollapsed": false },
-        { "name": "no", "isCollapsed": false }
+        {
+          "name": "both",
+          "isCollapsed": false
+        },
+        {
+          "name": "yes",
+          "isCollapsed": false
+        },
+        {
+          "name": "no",
+          "isCollapsed": false
+        }
       ],
-      "x": -2802,
-      "y": 17054,
+      "x": -3172,
+      "y": 18134,
       "childTrueId": "40EC15FE-C25F-442B-8CD9-5C87150436B3",
       "childFalseId": null
     },
@@ -4345,9 +5078,14 @@
       "childId": null,
       "inputs": [],
       "settings": [],
-      "collapsed": [{ "name": "loop", "isCollapsed": true }],
-      "x": -2802,
-      "y": 14174,
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": true
+        }
+      ],
+      "x": -3172,
+      "y": 15254,
       "variableGuid": "2E37F6E5-BE30-44ED-B0B6-B544ECEAAB9E",
       "operations": [
         {
@@ -4382,9 +5120,14 @@
           "structure": []
         }
       ],
-      "collapsed": [{ "name": "loop", "isCollapsed": false }],
-      "x": -2802,
-      "y": 14914,
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": false
+        }
+      ],
+      "x": -3172,
+      "y": 15994,
       "loopBlockId": "5BD148B9-BDD1-4C37-8EB3-73641F532BB3"
     },
     {
@@ -4414,12 +5157,21 @@
       ],
       "settings": [],
       "collapsed": [
-        { "name": "both", "isCollapsed": false },
-        { "name": "yes", "isCollapsed": false },
-        { "name": "no", "isCollapsed": false }
+        {
+          "name": "both",
+          "isCollapsed": false
+        },
+        {
+          "name": "yes",
+          "isCollapsed": false
+        },
+        {
+          "name": "no",
+          "isCollapsed": false
+        }
       ],
-      "x": -2682,
-      "y": 15014,
+      "x": -3052,
+      "y": 16094,
       "childTrueId": "0C03554A-88E9-4987-8DA7-2707C33613B5",
       "childFalseId": null
     },
@@ -4433,9 +5185,14 @@
       "childId": "981978BE-431B-4AF5-BD0D-451A3885B024",
       "inputs": [],
       "settings": [],
-      "collapsed": [{ "name": "loop", "isCollapsed": true }],
-      "x": -2802,
-      "y": 14434,
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": true
+        }
+      ],
+      "x": -3172,
+      "y": 15514,
       "variableGuid": "B762B4A7-25F9-4764-BECA-D4461377CE04",
       "operations": [
         {
@@ -4456,9 +5213,14 @@
       "childId": "0C14812A-A344-4903-9697-1426DB5C5DFA",
       "inputs": [],
       "settings": [],
-      "collapsed": [{ "name": "loop", "isCollapsed": true }],
-      "x": -2202,
-      "y": 15614,
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": true
+        }
+      ],
+      "x": -2572,
+      "y": 16694,
       "variableGuid": "B762B4A7-25F9-4764-BECA-D4461377CE04",
       "operations": [
         {
@@ -4493,9 +5255,14 @@
           "structure": []
         }
       ],
-      "collapsed": [{ "name": "loop", "isCollapsed": true }],
-      "x": -2442,
-      "y": 16694
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": true
+        }
+      ],
+      "x": -2812,
+      "y": 17774
     },
     {
       "id": "0C03554A-88E9-4987-8DA7-2707C33613B5",
@@ -4517,7 +5284,11 @@
           "value": {
             "mode": "all",
             "conditions": [
-              { "input1": "name", "input2": "QCMA - v", "operator": "contain" }
+              {
+                "input1": "name",
+                "input2": "QCMA - v",
+                "operator": "contain"
+              }
             ]
           },
           "type": "custom",
@@ -4532,9 +5303,14 @@
           "structure": []
         }
       ],
-      "collapsed": [{ "name": "loop", "isCollapsed": false }],
-      "x": -2562,
-      "y": 15094,
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": false
+        }
+      ],
+      "x": -2932,
+      "y": 16174,
       "loopBlockId": null
     },
     {
@@ -4564,12 +5340,21 @@
       ],
       "settings": [],
       "collapsed": [
-        { "name": "both", "isCollapsed": false },
-        { "name": "yes", "isCollapsed": false },
-        { "name": "no", "isCollapsed": false }
+        {
+          "name": "both",
+          "isCollapsed": false
+        },
+        {
+          "name": "yes",
+          "isCollapsed": false
+        },
+        {
+          "name": "no",
+          "isCollapsed": false
+        }
       ],
-      "x": -2562,
-      "y": 15254,
+      "x": -2932,
+      "y": 16334,
       "childTrueId": "7FC2859A-CB6D-4A81-B1B7-8DA4C1DF9E27",
       "childFalseId": "1D37B0B5-533A-4C98-8C0C-5D27CA83E613"
     },
@@ -4600,12 +5385,21 @@
       ],
       "settings": [],
       "collapsed": [
-        { "name": "both", "isCollapsed": false },
-        { "name": "yes", "isCollapsed": false },
-        { "name": "no", "isCollapsed": false }
+        {
+          "name": "both",
+          "isCollapsed": false
+        },
+        {
+          "name": "yes",
+          "isCollapsed": false
+        },
+        {
+          "name": "no",
+          "isCollapsed": false
+        }
       ],
-      "x": -2442,
-      "y": 15334,
+      "x": -2812,
+      "y": 16414,
       "childTrueId": "C1A9C7CC-6DAC-4E03-B987-F44C2C040BF9",
       "childFalseId": "A6B5E4EE-819B-4767-AE9A-2E127BD6DC6C"
     },
@@ -4619,9 +5413,14 @@
       "childId": "6D0F022E-164E-4CE3-B955-5961AA02A540",
       "inputs": [],
       "settings": [],
-      "collapsed": [{ "name": "loop", "isCollapsed": true }],
-      "x": -2802,
-      "y": 14794,
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": true
+        }
+      ],
+      "x": -3172,
+      "y": 15874,
       "variableGuid": "4CFD6FDB-6937-45CE-8677-203A280087D1",
       "operations": [
         {
@@ -4642,9 +5441,14 @@
       "childId": "8A8AB1EE-BE5B-46F6-981A-5ABB5FA348D9",
       "inputs": [],
       "settings": [],
-      "collapsed": [{ "name": "loop", "isCollapsed": true }],
-      "x": -2802,
-      "y": 14674,
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": true
+        }
+      ],
+      "x": -3172,
+      "y": 15754,
       "variableGuid": "12A37AC8-CD9C-41FC-9626-508B24997C86",
       "operations": [
         {
@@ -4679,9 +5483,14 @@
           "structure": []
         }
       ],
-      "collapsed": [{ "name": "loop", "isCollapsed": true }],
-      "x": -2322,
-      "y": 16454
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": true
+        }
+      ],
+      "x": -2692,
+      "y": 17534
     },
     {
       "id": "EE2B05F0-E29D-4EF4-8016-AD92050B6D2D",
@@ -4707,9 +5516,14 @@
           "structure": []
         }
       ],
-      "collapsed": [{ "name": "loop", "isCollapsed": true }],
-      "x": -2202,
-      "y": 15494
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": true
+        }
+      ],
+      "x": -2572,
+      "y": 16574
     },
     {
       "id": "C1A9C7CC-6DAC-4E03-B987-F44C2C040BF9",
@@ -4738,12 +5552,21 @@
       ],
       "settings": [],
       "collapsed": [
-        { "name": "both", "isCollapsed": false },
-        { "name": "yes", "isCollapsed": false },
-        { "name": "no", "isCollapsed": false }
+        {
+          "name": "both",
+          "isCollapsed": false
+        },
+        {
+          "name": "yes",
+          "isCollapsed": false
+        },
+        {
+          "name": "no",
+          "isCollapsed": false
+        }
       ],
-      "x": -2322,
-      "y": 15414,
+      "x": -2692,
+      "y": 16494,
       "childTrueId": "EE2B05F0-E29D-4EF4-8016-AD92050B6D2D",
       "childFalseId": "6E0F226F-5497-4493-9201-8FB2CFE66C25"
     },
@@ -4757,9 +5580,14 @@
       "childId": "6035B77C-4061-44DD-B0B4-BA016EF2F537",
       "inputs": [],
       "settings": [],
-      "collapsed": [{ "name": "loop", "isCollapsed": true }],
-      "x": -2802,
-      "y": 14554,
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": true
+        }
+      ],
+      "x": -3172,
+      "y": 15634,
       "variableGuid": "D8F8BD27-8FF5-42FF-82ED-0EE947E55327",
       "operations": [
         {
@@ -4780,9 +5608,14 @@
       "childId": null,
       "inputs": [],
       "settings": [],
-      "collapsed": [{ "name": "loop", "isCollapsed": true }],
-      "x": -2202,
-      "y": 16014,
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": true
+        }
+      ],
+      "x": -2572,
+      "y": 17094,
       "variableGuid": "D8F8BD27-8FF5-42FF-82ED-0EE947E55327",
       "operations": [
         {
@@ -4817,9 +5650,14 @@
           "structure": []
         }
       ],
-      "collapsed": [{ "name": "loop", "isCollapsed": true }],
-      "x": -2202,
-      "y": 15894
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": true
+        }
+      ],
+      "x": -2572,
+      "y": 16974
     },
     {
       "id": "0C14812A-A344-4903-9697-1426DB5C5DFA",
@@ -4831,9 +5669,14 @@
       "childId": null,
       "inputs": [],
       "settings": [],
-      "collapsed": [{ "name": "loop", "isCollapsed": true }],
-      "x": -2202,
-      "y": 15734,
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": true
+        }
+      ],
+      "x": -2572,
+      "y": 16814,
       "variableGuid": "D8F8BD27-8FF5-42FF-82ED-0EE947E55327",
       "operations": [
         {
@@ -4868,9 +5711,14 @@
           "structure": []
         }
       ],
-      "collapsed": [{ "name": "loop", "isCollapsed": true }],
-      "x": -2682,
-      "y": 17414
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": true
+        }
+      ],
+      "x": -3052,
+      "y": 18494
     },
     {
       "id": "4F36612D-0B32-4DA5-9803-85D5EEB3EDCB",
@@ -4887,8 +5735,18 @@
           "type": "string",
           "structure": []
         },
-        { "id": "method", "value": "GET", "type": "select", "structure": [] },
-        { "id": "timeout", "value": "", "type": "string", "structure": [] },
+        {
+          "id": "method",
+          "value": "GET",
+          "type": "select",
+          "structure": []
+        },
+        {
+          "id": "timeout",
+          "value": "",
+          "type": "string",
+          "structure": []
+        },
         {
           "id": "params",
           "value": null,
@@ -4903,7 +5761,12 @@
           "mode": "keyValue",
           "structure": []
         },
-        { "id": "encoding", "value": "", "type": "string", "structure": [] }
+        {
+          "id": "encoding",
+          "value": "",
+          "type": "string",
+          "structure": []
+        }
       ],
       "settings": [
         {
@@ -4931,9 +5794,14 @@
           "structure": []
         }
       ],
-      "collapsed": [{ "name": "loop", "isCollapsed": true }],
-      "x": -2682,
-      "y": 17534
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": true
+        }
+      ],
+      "x": -3052,
+      "y": 18614
     },
     {
       "id": "9E937365-2524-466B-95E9-309B3293FF8D",
@@ -4945,9 +5813,14 @@
       "childId": "8E819B1F-C085-4394-B9FA-537D1A20F440",
       "inputs": [],
       "settings": [],
-      "collapsed": [{ "name": "loop", "isCollapsed": true }],
-      "x": -2682,
-      "y": 17654,
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": true
+        }
+      ],
+      "x": -3052,
+      "y": 18734,
       "variableGuid": "996190EC-165A-4CF1-A3B6-363B8F0DDF31",
       "operations": [
         {
@@ -5012,9 +5885,14 @@
           "structure": []
         }
       ],
-      "collapsed": [{ "name": "loop", "isCollapsed": true }],
-      "x": -2682,
-      "y": 17774,
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": true
+        }
+      ],
+      "x": -3052,
+      "y": 18854,
       "datasourcetype_guid": "61a87510-c7a3-11ea-95da-0fb0c241e75c",
       "endpoint_guid": "194b9430-67b1-11eb-9e04-6dbde84bea83",
       "endpoint_role": "create"
@@ -5043,9 +5921,14 @@
           "structure": []
         }
       ],
-      "collapsed": [{ "name": "loop", "isCollapsed": true }],
-      "x": -2682,
-      "y": 18134
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": true
+        }
+      ],
+      "x": -3052,
+      "y": 19214
     },
     {
       "id": "40EC15FE-C25F-442B-8CD9-5C87150436B3",
@@ -5074,12 +5957,21 @@
       ],
       "settings": [],
       "collapsed": [
-        { "name": "both", "isCollapsed": false },
-        { "name": "yes", "isCollapsed": false },
-        { "name": "no", "isCollapsed": false }
+        {
+          "name": "both",
+          "isCollapsed": false
+        },
+        {
+          "name": "yes",
+          "isCollapsed": false
+        },
+        {
+          "name": "no",
+          "isCollapsed": false
+        }
       ],
-      "x": -2682,
-      "y": 17134,
+      "x": -3052,
+      "y": 18214,
       "childTrueId": "BC596D9A-38F8-4F9A-8DC9-1D0DC81A57C4",
       "childFalseId": null
     },
@@ -5107,9 +5999,14 @@
           "structure": []
         }
       ],
-      "collapsed": [{ "name": "loop", "isCollapsed": true }],
-      "x": -2562,
-      "y": 17214
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": true
+        }
+      ],
+      "x": -2932,
+      "y": 18294
     },
     {
       "id": "15A91B88-3C31-400B-A2C8-D697AB8F175E",
@@ -5135,9 +6032,14 @@
           "structure": []
         }
       ],
-      "collapsed": [{ "name": "loop", "isCollapsed": true }],
-      "x": -2562,
-      "y": 20434
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": true
+        }
+      ],
+      "x": -2932,
+      "y": 21514
     },
     {
       "id": "ECB7B639-F151-4B44-A89E-491B20BE66F3",
@@ -5166,12 +6068,21 @@
       ],
       "settings": [],
       "collapsed": [
-        { "name": "both", "isCollapsed": false },
-        { "name": "yes", "isCollapsed": false },
-        { "name": "no", "isCollapsed": false }
+        {
+          "name": "both",
+          "isCollapsed": false
+        },
+        {
+          "name": "yes",
+          "isCollapsed": false
+        },
+        {
+          "name": "no",
+          "isCollapsed": false
+        }
       ],
-      "x": -2682,
-      "y": 20114,
+      "x": -3052,
+      "y": 21194,
       "childTrueId": "35EFB375-D90C-4F76-A966-47EDB1EAFAD2",
       "childFalseId": "9EE0A5EF-EE84-4F46-811E-312073C232C6"
     },
@@ -5237,9 +6148,14 @@
           "structure": []
         }
       ],
-      "collapsed": [{ "name": "loop", "isCollapsed": true }],
-      "x": -2562,
-      "y": 20194,
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": true
+        }
+      ],
+      "x": -2932,
+      "y": 21274,
       "datasourcetype_guid": "61a87510-c7a3-11ea-95da-0fb0c241e75c",
       "snippet_guid": "76a45090-00e1-11ec-ad85-b3b86b5b9a24"
     },
@@ -5279,7 +6195,10 @@
               "key": "resourceId",
               "value": "{$.importAppFromBase64EncodedFile.attributes.id}"
             },
-            { "key": "resourceType", "value": "app" }
+            {
+              "key": "resourceType",
+              "value": "app"
+            }
           ],
           "type": "object",
           "mode": "keyValue",
@@ -5300,9 +6219,14 @@
           "structure": []
         }
       ],
-      "collapsed": [{ "name": "loop", "isCollapsed": true }],
-      "x": -2682,
-      "y": 18014,
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": true
+        }
+      ],
+      "x": -3052,
+      "y": 19094,
       "datasourcetype_guid": "61a87510-c7a3-11ea-95da-0fb0c241e75c",
       "endpoint_guid": "72d48530-bbb0-11f0-875a-b322bf237aeb",
       "endpoint_role": "create"
@@ -5316,12 +6240,22 @@
       "comment": "Wait for items to be aware of app.",
       "childId": "FF63005B-73C8-4593-8609-AC99855C7167",
       "inputs": [
-        { "id": "time", "value": "5", "type": "string", "structure": [] }
+        {
+          "id": "time",
+          "value": "5",
+          "type": "string",
+          "structure": []
+        }
       ],
       "settings": [],
-      "collapsed": [{ "name": "loop", "isCollapsed": true }],
-      "x": -2682,
-      "y": 17894
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": true
+        }
+      ],
+      "x": -3052,
+      "y": 18974
     },
     {
       "id": "9F37EC62-2694-40D2-8DB1-7F5265D9EB9F",
@@ -5333,9 +6267,14 @@
       "childId": "22D8A6B4-A055-40DE-BA67-0638D6005250",
       "inputs": [],
       "settings": [],
-      "collapsed": [{ "name": "loop", "isCollapsed": true }],
-      "x": -2682,
-      "y": 18734,
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": true
+        }
+      ],
+      "x": -3052,
+      "y": 19814,
       "variableGuid": "AE6C347F-BAAD-4FD0-A820-80AFEE588B29",
       "operations": [
         {
@@ -5349,8 +6288,14 @@
           "key": "4FFB7E92-7F6F-4A27-ADA6-FBC6DF13C3B3",
           "name": "Set key/values of { variable }",
           "value": [
-            { "key": "appTag", "value": "{ $.workingAppTagName }" },
-            { "key": "versionTag", "value": "{ $.workingAppTagVersion }" }
+            {
+              "key": "appTag",
+              "value": "{ $.workingAppTagName }"
+            },
+            {
+              "key": "versionTag",
+              "value": "{ $.workingAppTagVersion }"
+            }
           ]
         }
       ]
@@ -5379,9 +6324,14 @@
           "structure": []
         }
       ],
-      "collapsed": [{ "name": "loop", "isCollapsed": false }],
-      "x": -2682,
-      "y": 18854,
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": false
+        }
+      ],
+      "x": -3052,
+      "y": 19934,
       "loopBlockId": "AFD7305E-B419-4128-95D3-1A9EAF98F9C8"
     },
     {
@@ -5416,8 +6366,14 @@
         {
           "id": "736fae60-bbb0-11f0-ad62-c98a0046f418",
           "value": [
-            { "key": "name", "value": "{ $.loop4.item }" },
-            { "key": "type", "value": "public" }
+            {
+              "key": "name",
+              "value": "{ $.loop4.item }"
+            },
+            {
+              "key": "type",
+              "value": "public"
+            }
           ],
           "type": "object",
           "mode": "keyValue",
@@ -5438,9 +6394,14 @@
           "structure": []
         }
       ],
-      "collapsed": [{ "name": "loop", "isCollapsed": true }],
-      "x": -2562,
-      "y": 18954,
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": true
+        }
+      ],
+      "x": -2932,
+      "y": 20034,
       "datasourcetype_guid": "61a87510-c7a3-11ea-95da-0fb0c241e75c",
       "endpoint_guid": "72d48530-bbb0-11f0-875a-b322bf237aeb",
       "endpoint_role": "create"
@@ -5472,12 +6433,21 @@
       ],
       "settings": [],
       "collapsed": [
-        { "name": "both", "isCollapsed": false },
-        { "name": "yes", "isCollapsed": false },
-        { "name": "no", "isCollapsed": false }
+        {
+          "name": "both",
+          "isCollapsed": false
+        },
+        {
+          "name": "yes",
+          "isCollapsed": false
+        },
+        {
+          "name": "no",
+          "isCollapsed": false
+        }
       ],
-      "x": -2562,
-      "y": 19074,
+      "x": -2932,
+      "y": 20154,
       "childTrueId": "814E1A6D-6BCB-47DD-BD1D-39EC0CA9C101",
       "childFalseId": "4DA2DA61-2BB9-41DB-B354-3A2B8C5F2F2E"
     },
@@ -5532,9 +6502,14 @@
           "structure": []
         }
       ],
-      "collapsed": [{ "name": "loop", "isCollapsed": true }],
-      "x": -2562,
-      "y": 19834,
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": true
+        }
+      ],
+      "x": -2932,
+      "y": 20914,
       "datasourcetype_guid": "61a87510-c7a3-11ea-95da-0fb0c241e75c",
       "endpoint_guid": "72d48530-bbb0-11f0-875a-b322bf237aeb",
       "endpoint_role": "create"
@@ -5563,9 +6538,14 @@
           "structure": []
         }
       ],
-      "collapsed": [{ "name": "loop", "isCollapsed": true }],
-      "x": -2562,
-      "y": 19954
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": true
+        }
+      ],
+      "x": -2932,
+      "y": 21034
     },
     {
       "id": "814E1A6D-6BCB-47DD-BD1D-39EC0CA9C101",
@@ -5591,9 +6571,14 @@
           "structure": []
         }
       ],
-      "collapsed": [{ "name": "loop", "isCollapsed": true }],
-      "x": -2442,
-      "y": 19154
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": true
+        }
+      ],
+      "x": -2812,
+      "y": 20234
     },
     {
       "id": "E287D197-83E3-4C50-8598-34DDB03BD857",
@@ -5605,9 +6590,14 @@
       "childId": null,
       "inputs": [],
       "settings": [],
-      "collapsed": [{ "name": "loop", "isCollapsed": true }],
-      "x": -2442,
-      "y": 19274,
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": true
+        }
+      ],
+      "x": -2812,
+      "y": 20354,
       "variableGuid": "FA7C823B-3AA8-41EA-990F-21837758447A",
       "operations": [
         {
@@ -5647,9 +6637,14 @@
           "structure": []
         }
       ],
-      "collapsed": [{ "name": "loop", "isCollapsed": true }],
-      "x": -2442,
-      "y": 19554
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": true
+        }
+      ],
+      "x": -2812,
+      "y": 20634
     },
     {
       "id": "4DA2DA61-2BB9-41DB-B354-3A2B8C5F2F2E",
@@ -5702,9 +6697,14 @@
           "structure": []
         }
       ],
-      "collapsed": [{ "name": "loop", "isCollapsed": true }],
-      "x": -2442,
-      "y": 19434,
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": true
+        }
+      ],
+      "x": -2812,
+      "y": 20514,
       "datasourcetype_guid": "61a87510-c7a3-11ea-95da-0fb0c241e75c",
       "endpoint_guid": "72d48530-bbb0-11f0-875a-b322bf237aeb",
       "endpoint_role": "create"
@@ -5719,9 +6719,14 @@
       "childId": null,
       "inputs": [],
       "settings": [],
-      "collapsed": [{ "name": "loop", "isCollapsed": true }],
-      "x": -2442,
-      "y": 19674,
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": true
+        }
+      ],
+      "x": -2812,
+      "y": 20754,
       "variableGuid": "FA7C823B-3AA8-41EA-990F-21837758447A",
       "operations": [
         {
@@ -5729,7 +6734,10 @@
           "key": "4C765E64-0A7C-4AFC-8301-E428E0E60E9B",
           "name": "Set key/values of { variable }",
           "value": [
-            { "key": "{ $.loop4.index }", "value": "{ $.rawAPIRequest12.id }" }
+            {
+              "key": "{ $.loop4.index }",
+              "value": "{ $.rawAPIRequest12.id }"
+            }
           ]
         }
       ]
@@ -5758,9 +6766,14 @@
           "structure": []
         }
       ],
-      "collapsed": [{ "name": "loop", "isCollapsed": true }],
-      "x": -2682,
-      "y": 18254
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": true
+        }
+      ],
+      "x": -3052,
+      "y": 19334
     },
     {
       "id": "73B15F09-DCC3-43F4-8DCB-9ACE58E3FACF",
@@ -5792,9 +6805,14 @@
           "structure": []
         }
       ],
-      "collapsed": [{ "name": "loop", "isCollapsed": true }],
-      "x": -2682,
-      "y": 18374,
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": true
+        }
+      ],
+      "x": -3052,
+      "y": 19454,
       "datasourcetype_guid": "61a87510-c7a3-11ea-95da-0fb0c241e75c",
       "snippet_guid": "8d2f7da0-5028-11eb-8889-317a6c8ea7fc"
     },
@@ -5840,9 +6858,14 @@
           "structure": []
         }
       ],
-      "collapsed": [{ "name": "loop", "isCollapsed": true }],
-      "x": -2682,
-      "y": 18494,
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": true
+        }
+      ],
+      "x": -3052,
+      "y": 19574,
       "datasourcetype_guid": "61a87510-c7a3-11ea-95da-0fb0c241e75c",
       "endpoint_guid": "916661a0-a12b-11ed-882f-fb01a4e99b0a",
       "endpoint_role": "create"
@@ -5871,9 +6894,14 @@
           "structure": []
         }
       ],
-      "collapsed": [{ "name": "loop", "isCollapsed": true }],
-      "x": -2682,
-      "y": 18614
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": true
+        }
+      ],
+      "x": -3052,
+      "y": 19694
     },
     {
       "id": "9EE0A5EF-EE84-4F46-811E-312073C232C6",
@@ -5899,9 +6927,14 @@
           "structure": []
         }
       ],
-      "collapsed": [{ "name": "loop", "isCollapsed": false }],
-      "x": -2562,
-      "y": 21214,
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": false
+        }
+      ],
+      "x": -2932,
+      "y": 22294,
       "loopBlockId": "0D70200F-BF52-4CCD-8FB5-C81C9692D24B"
     },
     {
@@ -5955,9 +6988,14 @@
           "structure": []
         }
       ],
-      "collapsed": [{ "name": "loop", "isCollapsed": true }],
-      "x": -2442,
-      "y": 20894,
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": true
+        }
+      ],
+      "x": -2812,
+      "y": 21974,
       "datasourcetype_guid": "61a87510-c7a3-11ea-95da-0fb0c241e75c",
       "endpoint_guid": "72d48530-bbb0-11f0-875a-b322bf237aeb",
       "endpoint_role": "create"
@@ -5986,9 +7024,14 @@
           "structure": []
         }
       ],
-      "collapsed": [{ "name": "loop", "isCollapsed": true }],
-      "x": -2442,
-      "y": 21014
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": true
+        }
+      ],
+      "x": -2812,
+      "y": 22094
     },
     {
       "id": "292F6681-A0A3-4149-8900-B146F799C502",
@@ -6014,9 +7057,14 @@
           "structure": []
         }
       ],
-      "collapsed": [{ "name": "loop", "isCollapsed": false }],
-      "x": -2562,
-      "y": 20794,
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": false
+        }
+      ],
+      "x": -2932,
+      "y": 21874,
       "loopBlockId": "75038005-FF42-4CA7-B4C9-0CA9EE70631D"
     },
     {
@@ -6028,12 +7076,22 @@
       "comment": "Wait for items to get publish notification.",
       "childId": "D39D8A7B-718C-46EC-B3F1-24E2A2BF5185",
       "inputs": [
-        { "id": "time", "value": "5", "type": "string", "structure": [] }
+        {
+          "id": "time",
+          "value": "5",
+          "type": "string",
+          "structure": []
+        }
       ],
       "settings": [],
-      "collapsed": [{ "name": "loop", "isCollapsed": true }],
-      "x": -2562,
-      "y": 20554
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": true
+        }
+      ],
+      "x": -2932,
+      "y": 21634
     },
     {
       "id": "D39D8A7B-718C-46EC-B3F1-24E2A2BF5185",
@@ -6071,7 +7129,10 @@
               "key": "resourceId",
               "value": "{ $.publishAppToManagedSpace.attributes.id }"
             },
-            { "key": "resourceType", "value": "app" }
+            {
+              "key": "resourceType",
+              "value": "app"
+            }
           ],
           "type": "object",
           "mode": "keyValue",
@@ -6092,9 +7153,14 @@
           "structure": []
         }
       ],
-      "collapsed": [{ "name": "loop", "isCollapsed": true }],
-      "x": -2562,
-      "y": 20674,
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": true
+        }
+      ],
+      "x": -2932,
+      "y": 21754,
       "datasourcetype_guid": "61a87510-c7a3-11ea-95da-0fb0c241e75c",
       "endpoint_guid": "72d48530-bbb0-11f0-875a-b322bf237aeb",
       "endpoint_role": "create"
@@ -6109,9 +7175,14 @@
       "childId": "15A91B88-3C31-400B-A2C8-D697AB8F175E",
       "inputs": [],
       "settings": [],
-      "collapsed": [{ "name": "loop", "isCollapsed": true }],
-      "x": -2562,
-      "y": 20314,
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": true
+        }
+      ],
+      "x": -2932,
+      "y": 21394,
       "variableGuid": "A812E467-95BC-419E-B6A6-4341D6347C3A",
       "operations": [
         {
@@ -6132,9 +7203,14 @@
       "childId": null,
       "inputs": [],
       "settings": [],
-      "collapsed": [{ "name": "loop", "isCollapsed": true }],
-      "x": -2322,
-      "y": 16294,
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": true
+        }
+      ],
+      "x": -2692,
+      "y": 17374,
       "variableGuid": "A812E467-95BC-419E-B6A6-4341D6347C3A",
       "operations": [
         {
@@ -6196,9 +7272,14 @@
           "structure": []
         }
       ],
-      "collapsed": [{ "name": "loop", "isCollapsed": true }],
-      "x": -2442,
-      "y": 21434,
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": true
+        }
+      ],
+      "x": -2812,
+      "y": 22514,
       "datasourcetype_guid": "61a87510-c7a3-11ea-95da-0fb0c241e75c",
       "endpoint_guid": "72d48530-bbb0-11f0-875a-b322bf237aeb",
       "endpoint_role": "create"
@@ -6227,9 +7308,14 @@
           "structure": []
         }
       ],
-      "collapsed": [{ "name": "loop", "isCollapsed": true }],
-      "x": -2442,
-      "y": 21554
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": true
+        }
+      ],
+      "x": -2812,
+      "y": 22634
     },
     {
       "id": "0D70200F-BF52-4CCD-8FB5-C81C9692D24B",
@@ -6255,9 +7341,14 @@
           "structure": []
         }
       ],
-      "collapsed": [{ "name": "loop", "isCollapsed": true }],
-      "x": -2442,
-      "y": 21314
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": true
+        }
+      ],
+      "x": -2812,
+      "y": 22394
     },
     {
       "id": "3ABDBFAA-8E94-4AA9-87C6-AC03B13D58F0",
@@ -6291,8 +7382,14 @@
         {
           "id": "736fae60-bbb0-11f0-ad62-c98a0046f418",
           "value": [
-            { "key": "resourceId", "value": "{ $.loop6.item.resourceId }" },
-            { "key": "resourceType", "value": "app" }
+            {
+              "key": "resourceId",
+              "value": "{ $.loop6.item.resourceId }"
+            },
+            {
+              "key": "resourceType",
+              "value": "app"
+            }
           ],
           "type": "object",
           "mode": "keyValue",
@@ -6313,9 +7410,14 @@
           "structure": []
         }
       ],
-      "collapsed": [{ "name": "loop", "isCollapsed": true }],
-      "x": -2442,
-      "y": 21674,
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": true
+        }
+      ],
+      "x": -2812,
+      "y": 22754,
       "datasourcetype_guid": "61a87510-c7a3-11ea-95da-0fb0c241e75c",
       "endpoint_guid": "72d48530-bbb0-11f0-875a-b322bf237aeb",
       "endpoint_role": "create"
@@ -6371,9 +7473,14 @@
           "structure": []
         }
       ],
-      "collapsed": [{ "name": "loop", "isCollapsed": true }],
-      "x": -2442,
-      "y": 22174,
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": true
+        }
+      ],
+      "x": -2812,
+      "y": 23254,
       "datasourcetype_guid": "61a87510-c7a3-11ea-95da-0fb0c241e75c",
       "endpoint_guid": "72d48530-bbb0-11f0-875a-b322bf237aeb",
       "endpoint_role": "create"
@@ -6402,9 +7509,14 @@
           "structure": []
         }
       ],
-      "collapsed": [{ "name": "loop", "isCollapsed": true }],
-      "x": -2442,
-      "y": 22294
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": true
+        }
+      ],
+      "x": -2812,
+      "y": 23374
     },
     {
       "id": "AD01998A-BEE0-473B-99F7-E6CC8C4B60CF",
@@ -6445,9 +7557,14 @@
           "structure": []
         }
       ],
-      "collapsed": [{ "name": "loop", "isCollapsed": false }],
-      "x": -2442,
-      "y": 21794,
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": false
+        }
+      ],
+      "x": -2812,
+      "y": 22874,
       "loopBlockId": "151AA8FD-9389-44F0-8522-5AFF01889D68"
     },
     {
@@ -6501,9 +7618,14 @@
           "structure": []
         }
       ],
-      "collapsed": [{ "name": "loop", "isCollapsed": true }],
-      "x": -2322,
-      "y": 21894,
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": true
+        }
+      ],
+      "x": -2692,
+      "y": 22974,
       "datasourcetype_guid": "61a87510-c7a3-11ea-95da-0fb0c241e75c",
       "endpoint_guid": "72d48530-bbb0-11f0-875a-b322bf237aeb",
       "endpoint_role": "create"
@@ -6532,9 +7654,14 @@
           "structure": []
         }
       ],
-      "collapsed": [{ "name": "loop", "isCollapsed": true }],
-      "x": -2322,
-      "y": 22014
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": true
+        }
+      ],
+      "x": -2692,
+      "y": 23094
     },
     {
       "id": "F959E5AA-4EC0-4284-AA66-F59C788B6B08",
@@ -6572,7 +7699,12 @@
           "type": "select",
           "structure": []
         },
-        { "id": "cache", "value": "0", "type": "select", "structure": [] },
+        {
+          "id": "cache",
+          "value": "0",
+          "type": "select",
+          "structure": []
+        },
         {
           "id": "automations_censor_data",
           "value": false,
@@ -6580,9 +7712,14 @@
           "structure": []
         }
       ],
-      "collapsed": [{ "name": "loop", "isCollapsed": false }],
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": false
+        }
+      ],
       "x": -2922,
-      "y": 2434,
+      "y": 3494,
       "loopBlockId": null,
       "datasourcetype_guid": "61a87510-c7a3-11ea-95da-0fb0c241e75c",
       "endpoint_guid": "9f6166e0-bbb2-11f0-acdd-bd47067b5fbf",
@@ -6640,9 +7777,14 @@
           "structure": []
         }
       ],
-      "collapsed": [{ "name": "loop", "isCollapsed": false }],
-      "x": -2922,
-      "y": 12834,
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": false
+        }
+      ],
+      "x": -3292,
+      "y": 13914,
       "datasourcetype_guid": "61a87510-c7a3-11ea-95da-0fb0c241e75c",
       "endpoint_guid": "72d48530-bbb0-11f0-875a-b322bf237aeb",
       "endpoint_role": "create"
@@ -6674,12 +7816,21 @@
       ],
       "settings": [],
       "collapsed": [
-        { "name": "both", "isCollapsed": false },
-        { "name": "yes", "isCollapsed": false },
-        { "name": "no", "isCollapsed": false }
+        {
+          "name": "both",
+          "isCollapsed": false
+        },
+        {
+          "name": "yes",
+          "isCollapsed": false
+        },
+        {
+          "name": "no",
+          "isCollapsed": false
+        }
       ],
-      "x": -2922,
-      "y": 12954,
+      "x": -3292,
+      "y": 14034,
       "childTrueId": "D2202317-6AF5-42C3-A20F-5806BAEABEDA",
       "childFalseId": null
     },
@@ -6734,9 +7885,14 @@
           "structure": []
         }
       ],
-      "collapsed": [{ "name": "loop", "isCollapsed": false }],
-      "x": -2922,
-      "y": 13594,
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": false
+        }
+      ],
+      "x": -3292,
+      "y": 14674,
       "datasourcetype_guid": "61a87510-c7a3-11ea-95da-0fb0c241e75c",
       "endpoint_guid": "72d48530-bbb0-11f0-875a-b322bf237aeb",
       "endpoint_role": "create"
@@ -6751,9 +7907,14 @@
       "childId": "81004D2F-88EF-4DAF-AD93-78CFFD551EB7",
       "inputs": [],
       "settings": [],
-      "collapsed": [{ "name": "loop", "isCollapsed": false }],
-      "x": -2922,
-      "y": 12714,
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": false
+        }
+      ],
+      "x": -3292,
+      "y": 13794,
       "variableGuid": "218D5568-BA73-49F2-9996-926C40E2AE08",
       "operations": [
         {
@@ -6788,9 +7949,14 @@
           "structure": []
         }
       ],
-      "collapsed": [{ "name": "loop", "isCollapsed": false }],
-      "x": -2922,
-      "y": 13474
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": false
+        }
+      ],
+      "x": -3292,
+      "y": 14554
     },
     {
       "id": "5E1CFE7D-C393-4315-85EF-086507112AC6",
@@ -6816,9 +7982,14 @@
           "structure": []
         }
       ],
-      "collapsed": [{ "name": "loop", "isCollapsed": false }],
-      "x": -2922,
-      "y": 13714
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": false
+        }
+      ],
+      "x": -3292,
+      "y": 14794
     },
     {
       "id": "C5498C80-2759-492A-A46F-58DEF52F8F9A",
@@ -6871,9 +8042,14 @@
           "structure": []
         }
       ],
-      "collapsed": [{ "name": "loop", "isCollapsed": true }],
-      "x": -2802,
-      "y": 13154,
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": true
+        }
+      ],
+      "x": -3172,
+      "y": 14234,
       "datasourcetype_guid": "61a87510-c7a3-11ea-95da-0fb0c241e75c",
       "endpoint_guid": "72d48530-bbb0-11f0-875a-b322bf237aeb",
       "endpoint_role": "create"
@@ -6902,9 +8078,14 @@
           "structure": []
         }
       ],
-      "collapsed": [{ "name": "loop", "isCollapsed": true }],
-      "x": -2802,
-      "y": 13034
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": true
+        }
+      ],
+      "x": -3172,
+      "y": 14114
     },
     {
       "id": "D5C5031D-9058-4671-A035-978DBB1DC8E4",
@@ -6930,9 +8111,14 @@
           "structure": []
         }
       ],
-      "collapsed": [{ "name": "loop", "isCollapsed": true }],
-      "x": -2802,
-      "y": 13274
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": true
+        }
+      ],
+      "x": -3172,
+      "y": 14354
     },
     {
       "id": "56DF743F-3565-4BB7-B484-27DB0E8E13F5",
@@ -6973,9 +8159,14 @@
           "structure": []
         }
       ],
-      "collapsed": [{ "name": "loop", "isCollapsed": false }],
-      "x": -2922,
-      "y": 11734,
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": false
+        }
+      ],
+      "x": -3292,
+      "y": 12814,
       "loopBlockId": "439A8A90-8CAD-4F2F-A673-90754BB6B0AD"
     },
     {
@@ -7029,9 +8220,14 @@
           "structure": []
         }
       ],
-      "collapsed": [{ "name": "loop", "isCollapsed": true }],
-      "x": -2802,
-      "y": 11954,
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": true
+        }
+      ],
+      "x": -3172,
+      "y": 13034,
       "datasourcetype_guid": "61a87510-c7a3-11ea-95da-0fb0c241e75c",
       "endpoint_guid": "72d48530-bbb0-11f0-875a-b322bf237aeb",
       "endpoint_role": "create"
@@ -7060,9 +8256,14 @@
           "structure": []
         }
       ],
-      "collapsed": [{ "name": "loop", "isCollapsed": true }],
-      "x": -2802,
-      "y": 11834
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": true
+        }
+      ],
+      "x": -3172,
+      "y": 12914
     },
     {
       "id": "848D7B98-1FE1-4584-BF60-F518D86E41F0",
@@ -7088,9 +8289,14 @@
           "structure": []
         }
       ],
-      "collapsed": [{ "name": "loop", "isCollapsed": true }],
-      "x": -2802,
-      "y": 12074
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": true
+        }
+      ],
+      "x": -3172,
+      "y": 13154
     },
     {
       "id": "C9CA459B-7C50-4EDF-BD71-300FF8437382",
@@ -7116,9 +8322,14 @@
           "structure": []
         }
       ],
-      "collapsed": [{ "name": "loop", "isCollapsed": false }],
-      "x": -2922,
-      "y": 12234
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": false
+        }
+      ],
+      "x": -3292,
+      "y": 13314
     },
     {
       "id": "28997C80-CF89-4863-BAD6-DD9A15FC72EF",
@@ -7171,9 +8382,14 @@
           "structure": []
         }
       ],
-      "collapsed": [{ "name": "loop", "isCollapsed": false }],
-      "x": -2922,
-      "y": 12354,
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": false
+        }
+      ],
+      "x": -3292,
+      "y": 13434,
       "datasourcetype_guid": "61a87510-c7a3-11ea-95da-0fb0c241e75c",
       "endpoint_guid": "72d48530-bbb0-11f0-875a-b322bf237aeb",
       "endpoint_role": "create"
@@ -7188,9 +8404,14 @@
       "childId": "20C5CA2D-D4E9-453B-A275-37990DC61736",
       "inputs": [],
       "settings": [],
-      "collapsed": [{ "name": "loop", "isCollapsed": false }],
-      "x": -2922,
-      "y": 12474,
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": false
+        }
+      ],
+      "x": -3292,
+      "y": 13554,
       "variableGuid": "AABC69B3-4AB6-4777-A443-FCFCFDA805C4",
       "operations": [
         {
@@ -7225,9 +8446,14 @@
           "structure": []
         }
       ],
-      "collapsed": [{ "name": "loop", "isCollapsed": false }],
-      "x": -2922,
-      "y": 12594
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": false
+        }
+      ],
+      "x": -3292,
+      "y": 13674
     },
     {
       "id": "F4D0DE07-AD02-4C58-9CEA-A3409E738389",
@@ -7239,9 +8465,14 @@
       "childId": "1724234E-1EE6-475F-9451-68D9482CC2FE",
       "inputs": [],
       "settings": [],
-      "collapsed": [{ "name": "loop", "isCollapsed": false }],
-      "x": -2922,
-      "y": 10934,
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": false
+        }
+      ],
+      "x": -3292,
+      "y": 12014,
       "variableGuid": "DB5AD6FD-CA6D-4BDB-B12B-91C248324EE1",
       "operations": [
         {
@@ -7296,9 +8527,14 @@
           "structure": []
         }
       ],
-      "collapsed": [{ "name": "loop", "isCollapsed": false }],
-      "x": -2922,
-      "y": 11054,
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": false
+        }
+      ],
+      "x": -3292,
+      "y": 12134,
       "loopBlockId": null
     },
     {
@@ -7328,12 +8564,21 @@
       ],
       "settings": [],
       "collapsed": [
-        { "name": "both", "isCollapsed": false },
-        { "name": "yes", "isCollapsed": false },
-        { "name": "no", "isCollapsed": false }
+        {
+          "name": "both",
+          "isCollapsed": false
+        },
+        {
+          "name": "yes",
+          "isCollapsed": false
+        },
+        {
+          "name": "no",
+          "isCollapsed": false
+        }
       ],
-      "x": -2922,
-      "y": 11214,
+      "x": -3292,
+      "y": 12294,
       "childTrueId": "1AEE9D36-5C63-4334-8758-ECD4056C36B3",
       "childFalseId": null
     },
@@ -7347,9 +8592,14 @@
       "childId": "489D6F65-006C-4D20-81A8-578A09FE4E8E",
       "inputs": [],
       "settings": [],
-      "collapsed": [{ "name": "loop", "isCollapsed": true }],
-      "x": -2802,
-      "y": 11294,
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": true
+        }
+      ],
+      "x": -3172,
+      "y": 12374,
       "variableGuid": "407730A6-EC96-4337-BE80-CF4C0D552F08",
       "operations": [
         {
@@ -7370,9 +8620,14 @@
       "childId": "5B590615-6F1A-4D9E-9A37-DB7042C17B13",
       "inputs": [],
       "settings": [],
-      "collapsed": [{ "name": "loop", "isCollapsed": true }],
-      "x": -2802,
-      "y": 11414,
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": true
+        }
+      ],
+      "x": -3172,
+      "y": 12494,
       "variableGuid": "1BF2068B-106E-4D58-BC51-884F1810F03C",
       "operations": [
         {
@@ -7401,9 +8656,14 @@
         }
       ],
       "settings": [],
-      "collapsed": [{ "name": "loop", "isCollapsed": true }],
-      "x": -2802,
-      "y": 11534
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": true
+        }
+      ],
+      "x": -3172,
+      "y": 12614
     },
     {
       "id": "2E61A575-F621-4713-B446-C1BAC52D8834",
@@ -7415,7 +8675,12 @@
       "childId": "8151B3E3-471C-496B-BB87-F586C46E3CF4",
       "inputs": [],
       "settings": [],
-      "collapsed": [{ "name": "loop", "isCollapsed": true }],
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": true
+        }
+      ],
       "x": -2802,
       "y": -3266,
       "variableGuid": "12BED549-8F76-4D83-B484-F6121E71753E",
@@ -7438,7 +8703,12 @@
       "childId": "6AC0239B-01A8-47F9-AD4C-ED09CCB2B83F",
       "inputs": [],
       "settings": [],
-      "collapsed": [{ "name": "loop", "isCollapsed": true }],
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": true
+        }
+      ],
       "x": -2802,
       "y": -3146,
       "variableGuid": "3DA539EC-2C6E-4C2B-9985-6F5BDCA282B2",
@@ -7465,7 +8735,11 @@
           "value": {
             "mode": "all",
             "conditions": [
-              { "input1": "{ $.reloadNow }", "input2": "1", "operator": "=" }
+              {
+                "input1": "{ $.reloadNow }",
+                "input2": "1",
+                "operator": "="
+              }
             ]
           },
           "type": "custom",
@@ -7474,12 +8748,21 @@
       ],
       "settings": [],
       "collapsed": [
-        { "name": "both", "isCollapsed": false },
-        { "name": "yes", "isCollapsed": false },
-        { "name": "no", "isCollapsed": false }
+        {
+          "name": "both",
+          "isCollapsed": false
+        },
+        {
+          "name": "yes",
+          "isCollapsed": false
+        },
+        {
+          "name": "no",
+          "isCollapsed": false
+        }
       ],
-      "x": -2922,
-      "y": 23434,
+      "x": -3292,
+      "y": 24514,
       "childTrueId": "FB25A35E-49F7-4A93-951E-84B8CF244FC0",
       "childFalseId": "1AC4CBD1-A4F2-4A7A-AAD8-E90C9F324004"
     },
@@ -7507,9 +8790,14 @@
           "structure": []
         }
       ],
-      "collapsed": [{ "name": "loop", "isCollapsed": false }],
-      "x": -2802,
-      "y": 23634,
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": false
+        }
+      ],
+      "x": -3172,
+      "y": 24714,
       "loopBlockId": "3B9FCBAE-B4AD-491D-AA8C-95619A4C827C"
     },
     {
@@ -7581,9 +8869,14 @@
           "structure": []
         }
       ],
-      "collapsed": [{ "name": "loop", "isCollapsed": true }],
-      "x": -2682,
-      "y": 23734,
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": true
+        }
+      ],
+      "x": -3052,
+      "y": 24814,
       "datasourcetype_guid": "61a87510-c7a3-11ea-95da-0fb0c241e75c",
       "snippet_guid": "b5dbb7a0-e715-11ea-b2bf-43bb35adee19"
     },
@@ -7611,9 +8904,14 @@
           "structure": []
         }
       ],
-      "collapsed": [{ "name": "loop", "isCollapsed": true }],
-      "x": -2802,
-      "y": 23514
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": true
+        }
+      ],
+      "x": -3172,
+      "y": 24594
     },
     {
       "id": "3F546BF0-1269-4DA8-A132-0F3DE54E86F4",
@@ -7639,9 +8937,14 @@
           "structure": []
         }
       ],
-      "collapsed": [{ "name": "loop", "isCollapsed": true }],
-      "x": -2682,
-      "y": 23854
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": true
+        }
+      ],
+      "x": -3052,
+      "y": 24934
     },
     {
       "id": "3F25D3AA-32C6-4C4A-968D-7EA29AA29A76",
@@ -7667,9 +8970,14 @@
           "structure": []
         }
       ],
-      "collapsed": [{ "name": "loop", "isCollapsed": true }],
-      "x": -2682,
-      "y": 25554
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": true
+        }
+      ],
+      "x": -3052,
+      "y": 26634
     },
     {
       "id": "CEEB9F64-6EF8-4820-AB01-EE03F916B81D",
@@ -7695,9 +9003,14 @@
           "structure": []
         }
       ],
-      "collapsed": [{ "name": "loop", "isCollapsed": false }],
-      "x": -2802,
-      "y": 24414,
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": false
+        }
+      ],
+      "x": -3172,
+      "y": 25494,
       "loopBlockId": "DBF1BB1B-4211-420D-8B2C-AC9A5EC74B31"
     },
     {
@@ -7724,9 +9037,14 @@
           "structure": []
         }
       ],
-      "collapsed": [{ "name": "loop", "isCollapsed": false }],
-      "x": -2802,
-      "y": 24294
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": false
+        }
+      ],
+      "x": -3172,
+      "y": 25374
     },
     {
       "id": "EC299E1F-F2CA-4149-B148-FC4319064F9D",
@@ -7755,12 +9073,21 @@
       ],
       "settings": [],
       "collapsed": [
-        { "name": "both", "isCollapsed": false },
-        { "name": "yes", "isCollapsed": false },
-        { "name": "no", "isCollapsed": false }
+        {
+          "name": "both",
+          "isCollapsed": false
+        },
+        {
+          "name": "yes",
+          "isCollapsed": false
+        },
+        {
+          "name": "no",
+          "isCollapsed": false
+        }
       ],
-      "x": -2922,
-      "y": 24214,
+      "x": -3292,
+      "y": 25294,
       "childTrueId": "4F1E7C76-BDAF-4C71-A828-279277FEBEBC",
       "childFalseId": "0B7C9754-D191-41BC-A121-E09CEB1D1E0C"
     },
@@ -7788,9 +9115,14 @@
           "structure": []
         }
       ],
-      "collapsed": [{ "name": "loop", "isCollapsed": true }],
-      "x": -2802,
-      "y": 24054
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": true
+        }
+      ],
+      "x": -3172,
+      "y": 25134
     },
     {
       "id": "0B7C9754-D191-41BC-A121-E09CEB1D1E0C",
@@ -7816,9 +9148,14 @@
           "structure": []
         }
       ],
-      "collapsed": [{ "name": "loop", "isCollapsed": true }],
-      "x": -2802,
-      "y": 25754
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": true
+        }
+      ],
+      "x": -3172,
+      "y": 26834
     },
     {
       "id": "DBF1BB1B-4211-420D-8B2C-AC9A5EC74B31",
@@ -7838,7 +9175,10 @@
         {
           "id": "9ff92ee0-bbb2-11f0-8fb9-9146a99c6e2f",
           "value": [
-            { "key": "appId", "value": "{ $.loop8.item.attributes.id }" }
+            {
+              "key": "appId",
+              "value": "{ $.loop8.item.attributes.id }"
+            }
           ],
           "type": "object",
           "mode": "keyValue",
@@ -7859,7 +9199,12 @@
           "displayValue": "Ignore - Continue Automation and ignore errors",
           "structure": []
         },
-        { "id": "cache", "value": "0", "type": "select", "structure": [] },
+        {
+          "id": "cache",
+          "value": "0",
+          "type": "select",
+          "structure": []
+        },
         {
           "id": "automations_censor_data",
           "value": false,
@@ -7867,9 +9212,14 @@
           "structure": []
         }
       ],
-      "collapsed": [{ "name": "loop", "isCollapsed": false }],
-      "x": -2682,
-      "y": 24514,
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": false
+        }
+      ],
+      "x": -3052,
+      "y": 25594,
       "loopBlockId": null,
       "datasourcetype_guid": "61a87510-c7a3-11ea-95da-0fb0c241e75c",
       "endpoint_guid": "9f6166e0-bbb2-11f0-acdd-bd47067b5fbf",
@@ -7927,9 +9277,14 @@
           "structure": []
         }
       ],
-      "collapsed": [{ "name": "loop", "isCollapsed": true }],
-      "x": -2562,
-      "y": 24774,
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": true
+        }
+      ],
+      "x": -2932,
+      "y": 25854,
       "datasourcetype_guid": "61a87510-c7a3-11ea-95da-0fb0c241e75c",
       "endpoint_guid": "72d48530-bbb0-11f0-875a-b322bf237aeb",
       "endpoint_role": "create"
@@ -7954,7 +9309,11 @@
           "value": {
             "mode": "all",
             "conditions": [
-              { "input1": "migrated", "input2": null, "operator": "isFalse" }
+              {
+                "input1": "migrated",
+                "input2": null,
+                "operator": "isFalse"
+              }
             ]
           },
           "type": "custom",
@@ -7969,9 +9328,14 @@
           "structure": []
         }
       ],
-      "collapsed": [{ "name": "loop", "isCollapsed": false }],
-      "x": -2682,
-      "y": 24674,
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": false
+        }
+      ],
+      "x": -3052,
+      "y": 25754,
       "loopBlockId": "FDC0A602-52CC-46BF-9DAC-9320101C6DE5"
     },
     {
@@ -7998,9 +9362,14 @@
           "structure": []
         }
       ],
-      "collapsed": [{ "name": "loop", "isCollapsed": true }],
-      "x": -2562,
-      "y": 24894
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": true
+        }
+      ],
+      "x": -2932,
+      "y": 25974
     },
     {
       "id": "87CA29E5-FAC2-4E81-A611-555DD014D546",
@@ -8020,7 +9389,10 @@
         {
           "id": "9ff92ee0-bbb2-11f0-8fb9-9146a99c6e2f",
           "value": [
-            { "key": "resourceId", "value": "{ $.loop8.item.attributes.id }" }
+            {
+              "key": "resourceId",
+              "value": "{ $.loop8.item.attributes.id }"
+            }
           ],
           "type": "object",
           "mode": "keyValue",
@@ -8041,7 +9413,12 @@
           "displayValue": "Stop - Stop Automation and set to failed",
           "structure": []
         },
-        { "id": "cache", "value": "0", "type": "select", "structure": [] },
+        {
+          "id": "cache",
+          "value": "0",
+          "type": "select",
+          "structure": []
+        },
         {
           "id": "automations_censor_data",
           "value": false,
@@ -8049,9 +9426,14 @@
           "structure": []
         }
       ],
-      "collapsed": [{ "name": "loop", "isCollapsed": false }],
-      "x": -2682,
-      "y": 25054,
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": false
+        }
+      ],
+      "x": -3052,
+      "y": 26134,
       "loopBlockId": "34F8AAE5-2A39-4EA6-84DD-200050879981",
       "datasourcetype_guid": "61a87510-c7a3-11ea-95da-0fb0c241e75c",
       "endpoint_guid": "9f6166e0-bbb2-11f0-acdd-bd47067b5fbf",
@@ -8109,9 +9491,14 @@
           "structure": []
         }
       ],
-      "collapsed": [{ "name": "loop", "isCollapsed": true }],
-      "x": -2562,
-      "y": 25154,
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": true
+        }
+      ],
+      "x": -2932,
+      "y": 26234,
       "datasourcetype_guid": "61a87510-c7a3-11ea-95da-0fb0c241e75c",
       "endpoint_guid": "72d48530-bbb0-11f0-875a-b322bf237aeb",
       "endpoint_role": "create"
@@ -8140,9 +9527,14 @@
           "structure": []
         }
       ],
-      "collapsed": [{ "name": "loop", "isCollapsed": true }],
-      "x": -2562,
-      "y": 25274
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": true
+        }
+      ],
+      "x": -2932,
+      "y": 26354
     },
     {
       "id": "BF1A16BF-5256-4500-953B-F576C3C6B651",
@@ -8196,9 +9588,14 @@
           "structure": []
         }
       ],
-      "collapsed": [{ "name": "loop", "isCollapsed": true }],
-      "x": -2682,
-      "y": 25434,
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": true
+        }
+      ],
+      "x": -3052,
+      "y": 26514,
       "datasourcetype_guid": "61a87510-c7a3-11ea-95da-0fb0c241e75c",
       "endpoint_guid": "72d48530-bbb0-11f0-875a-b322bf237aeb",
       "endpoint_role": "create"
@@ -8217,7 +9614,11 @@
           "value": {
             "mode": "all",
             "conditions": [
-              { "input1": "1", "input2": null, "operator": "isTrue" }
+              {
+                "input1": "1",
+                "input2": null,
+                "operator": "isTrue"
+              }
             ]
           },
           "type": "custom",
@@ -8226,9 +9627,18 @@
       ],
       "settings": [],
       "collapsed": [
-        { "name": "both", "isCollapsed": false },
-        { "name": "yes", "isCollapsed": false },
-        { "name": "no", "isCollapsed": false }
+        {
+          "name": "both",
+          "isCollapsed": false
+        },
+        {
+          "name": "yes",
+          "isCollapsed": false
+        },
+        {
+          "name": "no",
+          "isCollapsed": false
+        }
       ],
       "x": -2922,
       "y": -3586,
@@ -8253,9 +9663,14 @@
         }
       ],
       "settings": [],
-      "collapsed": [{ "name": "loop", "isCollapsed": true }],
-      "x": -2802,
-      "y": 6054
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": true
+        }
+      ],
+      "x": -3172,
+      "y": 7134
     },
     {
       "id": "D0CE93F3-2D1E-4F03-8384-E10EDA8D85F7",
@@ -8267,9 +9682,14 @@
       "childId": "A5B767E8-1450-43F7-9E7E-4471FBD5F282",
       "inputs": [],
       "settings": [],
-      "collapsed": [{ "name": "loop", "isCollapsed": true }],
-      "x": -2802,
-      "y": 5934,
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": true
+        }
+      ],
+      "x": -3172,
+      "y": 7014,
       "variableGuid": "1BF2068B-106E-4D58-BC51-884F1810F03C",
       "operations": [
         {
@@ -8290,9 +9710,14 @@
       "childId": "D0CE93F3-2D1E-4F03-8384-E10EDA8D85F7",
       "inputs": [],
       "settings": [],
-      "collapsed": [{ "name": "loop", "isCollapsed": true }],
-      "x": -2802,
-      "y": 5814,
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": true
+        }
+      ],
+      "x": -3172,
+      "y": 6894,
       "variableGuid": "407730A6-EC96-4337-BE80-CF4C0D552F08",
       "operations": [
         {
@@ -8330,12 +9755,21 @@
       ],
       "settings": [],
       "collapsed": [
-        { "name": "both", "isCollapsed": false },
-        { "name": "yes", "isCollapsed": false },
-        { "name": "no", "isCollapsed": false }
+        {
+          "name": "both",
+          "isCollapsed": false
+        },
+        {
+          "name": "yes",
+          "isCollapsed": false
+        },
+        {
+          "name": "no",
+          "isCollapsed": false
+        }
       ],
-      "x": -2922,
-      "y": 5734,
+      "x": -3292,
+      "y": 6814,
       "childTrueId": "71CF1DF2-EDD5-4BD0-859E-8B644FFA7552",
       "childFalseId": null
     },
@@ -8363,9 +9797,14 @@
           "structure": []
         }
       ],
-      "collapsed": [{ "name": "loop", "isCollapsed": true }],
-      "x": -2922,
-      "y": 25914
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": true
+        }
+      ],
+      "x": -3292,
+      "y": 26994
     },
     {
       "id": "215C3F93-2B59-4ADA-A98E-870483095D2C",
@@ -8391,9 +9830,14 @@
           "structure": []
         }
       ],
-      "collapsed": [{ "name": "loop", "isCollapsed": true }],
-      "x": -2922,
-      "y": 26034
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": true
+        }
+      ],
+      "x": -3292,
+      "y": 27114
     },
     {
       "id": "4D28FE57-54CB-4FA9-A5EE-A7C65992D3FD",
@@ -8402,7 +9846,7 @@
       "name": "listRoles",
       "displayName": "Qlik Cloud Services - List Roles",
       "comment": "Retrieve user default role configuration, required for checking for API key access.",
-      "childId": "76AA3D41-6FAE-4406-9AAD-67EA9C1B1E7D",
+      "childId": "192CAC57-0476-4EA6-9E3B-44900026EB88",
       "inputs": [
         {
           "id": "61cc2ce0-eb31-11ed-8846-f774c9249948",
@@ -8424,7 +9868,12 @@
           "type": "select",
           "structure": []
         },
-        { "id": "cache", "value": "0", "type": "select", "structure": [] },
+        {
+          "id": "cache",
+          "value": "0",
+          "type": "select",
+          "structure": []
+        },
         {
           "id": "automations_censor_data",
           "value": false,
@@ -8432,10 +9881,15 @@
           "structure": []
         }
       ],
-      "collapsed": [{ "name": "loop", "isCollapsed": false }],
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": false
+        }
+      ],
       "x": -2922,
-      "y": -46,
-      "loopBlockId": null,
+      "y": 1034,
+      "loopBlockId": "76AA3D41-6FAE-4406-9AAD-67EA9C1B1E7D",
       "datasourcetype_guid": "61a87510-c7a3-11ea-95da-0fb0c241e75c",
       "endpoint_guid": "61a20140-eb31-11ed-8f08-a515d1528437",
       "endpoint_role": "list"
@@ -8447,19 +9901,24 @@
       "name": "userPermissions",
       "displayName": "Variable - userPermissions",
       "comment": "Add userDefault role to user permissions list.",
-      "childId": "192CAC57-0476-4EA6-9E3B-44900026EB88",
+      "childId": null,
       "inputs": [],
       "settings": [],
-      "collapsed": [{ "name": "loop", "isCollapsed": false }],
-      "x": -2922,
-      "y": 114,
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": false
+        }
+      ],
+      "x": -2802,
+      "y": 1134,
       "variableGuid": "4283B5F6-E6C0-492F-AA5B-21195FFF74DF",
       "operations": [
         {
           "id": "merge",
           "key": "E08C7C2C-0351-4834-9C2B-8621AA9CCFB0",
           "name": "Merge other list into { variable }",
-          "value": "{ $.listRoles[*].assignedScopes }"
+          "value": "{ $.listRoles.item.assignedScopes }"
         }
       ]
     },
@@ -8486,7 +9945,12 @@
           "type": "select",
           "structure": []
         },
-        { "id": "cache", "value": "0", "type": "select", "structure": [] },
+        {
+          "id": "cache",
+          "value": "0",
+          "type": "select",
+          "structure": []
+        },
         {
           "id": "automations_censor_data",
           "value": false,
@@ -8494,12 +9958,470 @@
           "structure": []
         }
       ],
-      "collapsed": [{ "name": "loop", "isCollapsed": true }],
-      "x": -2322,
-      "y": 16174,
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": true
+        }
+      ],
+      "x": -2692,
+      "y": 17254,
       "datasourcetype_guid": "61a87510-c7a3-11ea-95da-0fb0c241e75c",
       "endpoint_guid": "dbdc5470-c7a5-11ea-9135-b9442d1570d8",
       "endpoint_role": "get"
+    },
+    {
+      "id": "D93CC85B-1E1E-4EE9-A2C4-D60FB7E19A92",
+      "type": "ForEachBlock",
+      "disabled": false,
+      "name": "loop9",
+      "displayName": "Loop 9",
+      "comment": "Loop - assignedGroups",
+      "childId": "CD1DE6F6-8F1B-43EE-9B1A-E1ED8E200416",
+      "inputs": [
+        {
+          "id": "input",
+          "value": "{ $.getUser.assignedGroups }",
+          "type": "string",
+          "structure": {}
+        }
+      ],
+      "settings": [
+        {
+          "id": "automations_censor_data",
+          "value": false,
+          "type": "checkbox",
+          "structure": {}
+        }
+      ],
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": false
+        }
+      ],
+      "x": -2922,
+      "y": 134,
+      "loopBlockId": "EB88BBA6-62CF-4BE2-AE54-D656545BCDB8"
+    },
+    {
+      "id": "EB88BBA6-62CF-4BE2-AE54-D656545BCDB8",
+      "type": "ForEachBlock",
+      "disabled": false,
+      "name": "loop10",
+      "displayName": "Loop 10",
+      "comment": "Loop - group.assignedRoles",
+      "childId": null,
+      "inputs": [
+        {
+          "id": "input",
+          "value": "{ $.loop9.item.assignedRoles }",
+          "type": "string",
+          "structure": {}
+        }
+      ],
+      "settings": [
+        {
+          "id": "automations_censor_data",
+          "value": false,
+          "type": "checkbox",
+          "structure": {}
+        }
+      ],
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": false
+        }
+      ],
+      "x": -2802,
+      "y": 234,
+      "loopBlockId": "19CC7B58-34C4-4762-A144-898EF788EA13"
+    },
+    {
+      "id": "19CC7B58-34C4-4762-A144-898EF788EA13",
+      "type": "VariableBlock",
+      "disabled": false,
+      "name": "userRoles#2",
+      "displayName": "Variable - userRoles 2",
+      "comment": "Collect all roles for API key access checks.",
+      "childId": null,
+      "inputs": [],
+      "settings": [],
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": false
+        }
+      ],
+      "x": -2682,
+      "y": 334,
+      "variableGuid": "CD9F0C76-28B4-482E-A218-EDE5763F6807",
+      "operations": [
+        {
+          "key": "FF3F1190-B850-4D68-AFF6-CAE2EB644159",
+          "id": "add_item",
+          "name": "Add item to { variable }",
+          "value": "{object: '{\"id\":\"{ $.loop10.item.id }\",\"name\":\"{ $.loop10.item.name }\",\"type\":\"{ $.loop10.item.type }\",\"level\":\"{ $.loop10.item.level }\"}'}"
+        }
+      ]
+    },
+    {
+      "id": "3521F356-424C-44DE-8801-3042B0539E8D",
+      "type": "FormBlock",
+      "disabled": false,
+      "name": "inputs4",
+      "displayName": "Inputs 4",
+      "comment": "",
+      "childId": "ABF9478A-D559-4049-BA23-984416DB5D99",
+      "inputs": [],
+      "settings": [
+        {
+          "id": "persist_data",
+          "value": "no",
+          "type": "select",
+          "structure": []
+        },
+        {
+          "id": "automations_censor_data",
+          "value": false,
+          "type": "checkbox",
+          "structure": []
+        }
+      ],
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": false
+        }
+      ],
+      "x": -2802,
+      "y": -1466,
+      "form": [
+        {
+          "id": "inputs4-input-0",
+          "label": "Automatically update this automation?",
+          "helpText": "This will update the automation to the latest version of the Qlik Cloud Monitoring Apps deployer. Select Yes to proceed or No to cancel.",
+          "type": "select",
+          "values": "Yes,No",
+          "isRequired": true,
+          "options": {},
+          "order": 0
+        }
+      ],
+      "persistData": "no"
+    },
+    {
+      "id": "8F006B7D-F5B6-4BAA-8BFB-76D2B794E8AF",
+      "type": "ShowBlock",
+      "disabled": false,
+      "name": "output55",
+      "displayName": "Output 55",
+      "comment": "",
+      "childId": "3521F356-424C-44DE-8801-3042B0539E8D",
+      "inputs": [
+        {
+          "id": "input",
+          "value": "## Upate needed!\n\nThis deployer template is version \"{$.currentTemplateVersionNum}\", which is less than the required version \"{$.callURL.installers[?(@.template=='qcmad')].version}\"",
+          "type": "string",
+          "structure": {}
+        }
+      ],
+      "settings": [
+        {
+          "id": "display_mode",
+          "value": "add",
+          "type": "select",
+          "structure": {}
+        }
+      ],
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": false
+        }
+      ],
+      "x": -2802,
+      "y": -1586
+    },
+    {
+      "id": "ABF9478A-D559-4049-BA23-984416DB5D99",
+      "type": "IfElseBlock",
+      "disabled": false,
+      "name": "condition36",
+      "displayName": "Condition 36",
+      "comment": "",
+      "childId": null,
+      "inputs": [
+        {
+          "id": "conditions",
+          "value": {
+            "mode": "all",
+            "conditions": [
+              {
+                "input1": "{ $.inputs4.'Automatically update this automation?' }",
+                "input2": "Yes",
+                "operator": "="
+              }
+            ]
+          },
+          "type": "custom",
+          "structure": []
+        }
+      ],
+      "settings": [],
+      "collapsed": [
+        {
+          "name": "both",
+          "isCollapsed": false
+        },
+        {
+          "name": "yes",
+          "isCollapsed": false
+        },
+        {
+          "name": "no",
+          "isCollapsed": false
+        }
+      ],
+      "x": -2802,
+      "y": -1346,
+      "childTrueId": "6DB0BCE2-239C-491D-89F1-6E9F63937F49",
+      "childFalseId": null
+    },
+    {
+      "id": "6DB0BCE2-239C-491D-89F1-6E9F63937F49",
+      "type": "CallUrlBlock",
+      "disabled": false,
+      "name": "callURL4",
+      "displayName": "Call URL 4",
+      "comment": "",
+      "childId": "1C53F6DA-FE4F-4BE3-8A95-82EF0EC3E288",
+      "inputs": [
+        {
+          "id": "url",
+          "value": "https://raw.githubusercontent.com/qlik-oss/qlik-cloud-monitoring-apps/main/automations/singleTenantDeployer.json",
+          "type": "string",
+          "structure": {}
+        },
+        {
+          "id": "method",
+          "value": "GET",
+          "type": "select",
+          "structure": {}
+        },
+        {
+          "id": "timeout",
+          "value": "",
+          "type": "string",
+          "structure": {}
+        },
+        {
+          "id": "params",
+          "value": null,
+          "type": "object",
+          "mode": "keyValue",
+          "structure": {}
+        },
+        {
+          "id": "headers",
+          "value": null,
+          "type": "object",
+          "mode": "keyValue",
+          "structure": {}
+        },
+        {
+          "id": "encoding",
+          "value": "",
+          "type": "string",
+          "structure": {}
+        }
+      ],
+      "settings": [
+        {
+          "id": "blendr_on_error",
+          "value": "stop",
+          "type": "select",
+          "structure": {}
+        },
+        {
+          "id": "full_response",
+          "value": null,
+          "type": "checkbox",
+          "structure": {}
+        },
+        {
+          "id": "capitalize_headers",
+          "value": true,
+          "type": "checkbox",
+          "structure": {}
+        },
+        {
+          "id": "automations_censor_data",
+          "value": false,
+          "type": "checkbox",
+          "structure": {}
+        }
+      ],
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": false
+        }
+      ],
+      "x": -2682,
+      "y": -1266
+    },
+    {
+      "id": "1C53F6DA-FE4F-4BE3-8A95-82EF0EC3E288",
+      "type": "EndpointBlock",
+      "disabled": false,
+      "name": "updateAutomation",
+      "displayName": "Qlik Cloud Services - Update Automation",
+      "comment": "",
+      "childId": "99C259DE-CADE-4561-8634-3C93EA662301",
+      "inputs": [
+        {
+          "id": "428c8660-d041-11ec-864d-5bed7a9667ee",
+          "value": "{ automationid }",
+          "type": "string",
+          "structure": []
+        },
+        {
+          "id": "1f1d64b0-d041-11ec-bc03-e5fdbc243961",
+          "value": null,
+          "type": "string",
+          "structure": []
+        },
+        {
+          "id": "1f272e60-d041-11ec-9044-dda9cc402447",
+          "value": null,
+          "type": "string",
+          "structure": []
+        },
+        {
+          "id": "7fcdf4c0-2833-11ed-a6a9-797f49b90041",
+          "value": "{ $.callURL4 }",
+          "type": "string",
+          "structure": []
+        },
+        {
+          "id": "99e1a8c0-2833-11ed-b085-83fc18a9cd7d",
+          "value": null,
+          "type": "string",
+          "structure": []
+        }
+      ],
+      "settings": [
+        {
+          "id": "blendr_on_error",
+          "value": "stop",
+          "type": "select",
+          "structure": []
+        },
+        {
+          "id": "automations_censor_data",
+          "value": false,
+          "type": "checkbox",
+          "structure": []
+        }
+      ],
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": false
+        }
+      ],
+      "x": -2682,
+      "y": -1146,
+      "datasourcetype_guid": "61a87510-c7a3-11ea-95da-0fb0c241e75c",
+      "endpoint_guid": "1f022b50-d041-11ec-a842-e9973f7c493f",
+      "endpoint_role": "update"
+    },
+    {
+      "id": "99C259DE-CADE-4561-8634-3C93EA662301",
+      "type": "ShowBlock",
+      "disabled": false,
+      "name": "output56",
+      "displayName": "Output 56",
+      "comment": "",
+      "childId": "08CBB6D5-ACC3-40AD-A7DA-AA28CD5AD4DB",
+      "inputs": [
+        {
+          "id": "input",
+          "value": "## Automation has been updated. Please refresh the page or open: \n[This link to refresh]({$.tenantHostname}analytics/automations/editor/{automationid})",
+          "type": "string",
+          "structure": []
+        }
+      ],
+      "settings": [
+        {
+          "id": "display_mode",
+          "value": "add",
+          "type": "select",
+          "structure": []
+        }
+      ],
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": false
+        }
+      ],
+      "x": -2682,
+      "y": -1026
+    },
+    {
+      "id": "F8CCF961-2D55-43AE-A8B3-CED17A4A0B9A",
+      "type": "StopBlock",
+      "disabled": false,
+      "name": "stop",
+      "displayName": "Stop",
+      "comment": "",
+      "childId": null,
+      "inputs": [],
+      "settings": [],
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": false
+        }
+      ],
+      "x": -2682,
+      "y": -786
+    },
+    {
+      "id": "08CBB6D5-ACC3-40AD-A7DA-AA28CD5AD4DB",
+      "type": "UpdateJobBlock",
+      "disabled": false,
+      "name": "updateRunTitle3",
+      "displayName": "Update Run Title 3",
+      "comment": "",
+      "childId": "F8CCF961-2D55-43AE-A8B3-CED17A4A0B9A",
+      "inputs": [
+        {
+          "id": "title",
+          "value": "Updated to version: { $.callURL.installers[?(@.template=='qcma')].version }. Please run again.",
+          "type": "string",
+          "structure": {}
+        }
+      ],
+      "settings": [
+        {
+          "id": "automations_censor_data",
+          "value": false,
+          "type": "checkbox",
+          "structure": {}
+        }
+      ],
+      "collapsed": [
+        {
+          "name": "loop",
+          "isCollapsed": false
+        }
+      ],
+      "x": -2682,
+      "y": -906
     }
   ],
   "variables": [
